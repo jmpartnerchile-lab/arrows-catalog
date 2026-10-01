@@ -1,4 +1,1229 @@
 {
-  "version": 0,
-  "packs": []
+  "version": 1,
+  "packs": [
+    {
+      "id": "amanecer-alpino",
+      "name": "Amanecer Alpino",
+      "tagline": "Luz rosada sobre la nieve",
+      "icon": "partly-sunny",
+      "tint": "#F5A3B7",
+      "art": [
+        {
+          "id": "amanecer-alpino-01-primera-luz",
+          "title": "Primera luz",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/amanecer-alpino/01-primera-luz.jpg"
+        },
+        {
+          "id": "amanecer-alpino-02-picos-de-algodon",
+          "title": "Picos de algodón",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/amanecer-alpino/02-picos-de-algodon.jpg"
+        },
+        {
+          "id": "amanecer-alpino-03-manana-tranquila",
+          "title": "Mañana tranquila",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/amanecer-alpino/03-manana-tranquila.jpg"
+        }
+      ]
+    },
+    {
+      "id": "arrecife-tropical",
+      "name": "Arrecife Tropical",
+      "tagline": "Peces de mil colores",
+      "icon": "fish",
+      "tint": "#FF6B6B",
+      "art": [
+        {
+          "id": "arrecife-tropical-01-coral",
+          "title": "Coral",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/arrecife-tropical/01-coral.jpg"
+        },
+        {
+          "id": "arrecife-tropical-02-burbujas",
+          "title": "Burbujas",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/arrecife-tropical/02-burbujas.jpg"
+        },
+        {
+          "id": "arrecife-tropical-03-marea-baja",
+          "title": "Marea baja",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/arrecife-tropical/03-marea-baja.jpg"
+        }
+      ]
+    },
+    {
+      "id": "atardecer-andino",
+      "name": "Atardecer Andino",
+      "tagline": "Cumbres al final del día",
+      "icon": "sunny",
+      "tint": "#F2795B",
+      "art": [
+        {
+          "id": "atardecer-andino-01-cordillera-en-llamas",
+          "title": "Cordillera en llamas",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/atardecer-andino/01-cordillera-en-llamas.jpg"
+        },
+        {
+          "id": "atardecer-andino-02-valle-dorado",
+          "title": "Valle dorado",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/atardecer-andino/02-valle-dorado.jpg"
+        },
+        {
+          "id": "atardecer-andino-03-ultimo-rayo",
+          "title": "Último rayo",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/atardecer-andino/03-ultimo-rayo.jpg"
+        }
+      ]
+    },
+    {
+      "id": "aurora-boreal",
+      "name": "Aurora Boreal",
+      "tagline": "Luces del norte",
+      "icon": "sparkles",
+      "tint": "#3DDC97",
+      "art": [
+        {
+          "id": "aurora-boreal-01-danza-verde",
+          "title": "Danza verde",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-boreal/01-danza-verde.jpg"
+        },
+        {
+          "id": "aurora-boreal-02-noche-artica",
+          "title": "Noche ártica",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-boreal/02-noche-artica.jpg"
+        },
+        {
+          "id": "aurora-boreal-03-cielo-vivo",
+          "title": "Cielo vivo",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-boreal/03-cielo-vivo.jpg"
+        }
+      ]
+    },
+    {
+      "id": "aurora-rosa",
+      "name": "Aurora Rosa",
+      "tagline": "Un cielo que cambia de color",
+      "icon": "sparkles",
+      "tint": "#F07BC1",
+      "art": [
+        {
+          "id": "aurora-rosa-01-velo-rosado",
+          "title": "Velo rosado",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-rosa/01-velo-rosado.jpg"
+        },
+        {
+          "id": "aurora-rosa-02-polo-norte",
+          "title": "Polo norte",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-rosa/02-polo-norte.jpg"
+        },
+        {
+          "id": "aurora-rosa-03-destellos",
+          "title": "Destellos",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-rosa/03-destellos.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bauhaus",
+      "name": "Bauhaus",
+      "tagline": "Formas y colores puros",
+      "icon": "shapes",
+      "tint": "#E63946",
+      "art": [
+        {
+          "id": "bauhaus-01-composicion-i",
+          "title": "Composición I",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus/01-composicion-i.jpg"
+        },
+        {
+          "id": "bauhaus-02-composicion-ii",
+          "title": "Composición II",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus/02-composicion-ii.jpg"
+        },
+        {
+          "id": "bauhaus-03-composicion-iii",
+          "title": "Composición III",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus/03-composicion-iii.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bauhaus-pastel",
+      "name": "Bauhaus Pastel",
+      "tagline": "Geometría suave",
+      "icon": "shapes",
+      "tint": "#A8DADC",
+      "art": [
+        {
+          "id": "bauhaus-pastel-01-contrapunto",
+          "title": "Contrapunto",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus-pastel/01-contrapunto.jpg"
+        },
+        {
+          "id": "bauhaus-pastel-02-ritmo",
+          "title": "Ritmo",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus-pastel/02-ritmo.jpg"
+        },
+        {
+          "id": "bauhaus-pastel-03-armonia",
+          "title": "Armonía",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus-pastel/03-armonia.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bosque-brumoso",
+      "name": "Bosque Brumoso",
+      "tagline": "Pinos entre la niebla",
+      "icon": "trail-sign",
+      "tint": "#5E8C7A",
+      "art": [
+        {
+          "id": "bosque-brumoso-01-niebla-matinal",
+          "title": "Niebla matinal",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-brumoso/01-niebla-matinal.jpg"
+        },
+        {
+          "id": "bosque-brumoso-02-pinar-profundo",
+          "title": "Pinar profundo",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-brumoso/02-pinar-profundo.jpg"
+        },
+        {
+          "id": "bosque-brumoso-03-claro-del-bosque",
+          "title": "Claro del bosque",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-brumoso/03-claro-del-bosque.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bosque-nocturno",
+      "name": "Bosque Nocturno",
+      "tagline": "Luna sobre los pinos",
+      "icon": "moon",
+      "tint": "#4C5FA8",
+      "art": [
+        {
+          "id": "bosque-nocturno-01-luna-de-plata",
+          "title": "Luna de plata",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-nocturno/01-luna-de-plata.jpg"
+        },
+        {
+          "id": "bosque-nocturno-02-buhos-despiertos",
+          "title": "Búhos despiertos",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-nocturno/02-buhos-despiertos.jpg"
+        },
+        {
+          "id": "bosque-nocturno-03-medianoche",
+          "title": "Medianoche",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-nocturno/03-medianoche.jpg"
+        }
+      ]
+    },
+    {
+      "id": "bosque-otono",
+      "name": "Bosque de Otoño",
+      "tagline": "Cálido y anaranjado",
+      "icon": "leaf",
+      "tint": "#D9733B",
+      "art": [
+        {
+          "id": "bosque-otono-01-hojas-caidas",
+          "title": "Hojas caídas",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-otono/01-hojas-caidas.jpg"
+        },
+        {
+          "id": "bosque-otono-02-tarde-de-octubre",
+          "title": "Tarde de octubre",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-otono/02-tarde-de-octubre.jpg"
+        },
+        {
+          "id": "bosque-otono-03-camino-ocre",
+          "title": "Camino ocre",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-otono/03-camino-ocre.jpg"
+        }
+      ]
+    },
+    {
+      "id": "campo-de-flores",
+      "name": "Campo de Flores",
+      "tagline": "Primavera en colores",
+      "icon": "flower",
+      "tint": "#F28482",
+      "art": [
+        {
+          "id": "campo-de-flores-01-pradera",
+          "title": "Pradera",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/campo-de-flores/01-pradera.jpg"
+        },
+        {
+          "id": "campo-de-flores-02-ramillete",
+          "title": "Ramillete",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/campo-de-flores/02-ramillete.jpg"
+        },
+        {
+          "id": "campo-de-flores-03-manana-de-abril",
+          "title": "Mañana de abril",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/campo-de-flores/03-manana-de-abril.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ciudad-del-amanecer",
+      "name": "Ciudad al Amanecer",
+      "tagline": "La ciudad despierta",
+      "icon": "business",
+      "tint": "#F4A261",
+      "art": [
+        {
+          "id": "ciudad-del-amanecer-01-primer-tranvia",
+          "title": "Primer tranvía",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-del-amanecer/01-primer-tranvia.jpg"
+        },
+        {
+          "id": "ciudad-del-amanecer-02-ventanas",
+          "title": "Ventanas",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-del-amanecer/02-ventanas.jpg"
+        },
+        {
+          "id": "ciudad-del-amanecer-03-puente",
+          "title": "Puente",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-del-amanecer/03-puente.jpg"
+        }
+      ]
+    },
+    {
+      "id": "ciudad-nocturna",
+      "name": "Ciudad Nocturna",
+      "tagline": "Luces que nunca duermen",
+      "icon": "business",
+      "tint": "#FFD166",
+      "art": [
+        {
+          "id": "ciudad-nocturna-01-avenida",
+          "title": "Avenida",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-nocturna/01-avenida.jpg"
+        },
+        {
+          "id": "ciudad-nocturna-02-rascacielos",
+          "title": "Rascacielos",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-nocturna/02-rascacielos.jpg"
+        },
+        {
+          "id": "ciudad-nocturna-03-barrio-alto",
+          "title": "Barrio alto",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-nocturna/03-barrio-alto.jpg"
+        }
+      ]
+    },
+    {
+      "id": "costa-nevada",
+      "name": "Costa Nevada",
+      "tagline": "Mar frío y montañas",
+      "icon": "snow",
+      "tint": "#7FB2E5",
+      "art": [
+        {
+          "id": "costa-nevada-01-fiordo",
+          "title": "Fiordo",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-nevada/01-fiordo.jpg"
+        },
+        {
+          "id": "costa-nevada-02-bahia-helada",
+          "title": "Bahía helada",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-nevada/02-bahia-helada.jpg"
+        },
+        {
+          "id": "costa-nevada-03-faro-del-norte",
+          "title": "Faro del norte",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-nevada/03-faro-del-norte.jpg"
+        }
+      ]
+    },
+    {
+      "id": "costa-turquesa",
+      "name": "Costa Turquesa",
+      "tagline": "Agua clara y cielo abierto",
+      "icon": "water",
+      "tint": "#2BB3C0",
+      "art": [
+        {
+          "id": "costa-turquesa-01-mediodia",
+          "title": "Mediodía",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-turquesa/01-mediodia.jpg"
+        },
+        {
+          "id": "costa-turquesa-02-velas-blancas",
+          "title": "Velas blancas",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-turquesa/02-velas-blancas.jpg"
+        },
+        {
+          "id": "costa-turquesa-03-horizonte",
+          "title": "Horizonte",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-turquesa/03-horizonte.jpg"
+        }
+      ]
+    },
+    {
+      "id": "desierto-rosado",
+      "name": "Desierto Rosado",
+      "tagline": "Atardecer en Atacama",
+      "icon": "flower",
+      "tint": "#E58FA6",
+      "art": [
+        {
+          "id": "desierto-rosado-01-valle-de-la-luna",
+          "title": "Valle de la Luna",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/desierto-rosado/01-valle-de-la-luna.jpg"
+        },
+        {
+          "id": "desierto-rosado-02-cactus-al-ocaso",
+          "title": "Cactus al ocaso",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/desierto-rosado/02-cactus-al-ocaso.jpg"
+        },
+        {
+          "id": "desierto-rosado-03-arena-rosa",
+          "title": "Arena rosa",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/desierto-rosado/03-arena-rosa.jpg"
+        }
+      ]
+    },
+    {
+      "id": "dunas-del-sahara",
+      "name": "Dunas del Sahara",
+      "tagline": "Arena y sol infinito",
+      "icon": "sunny",
+      "tint": "#E3A04F",
+      "art": [
+        {
+          "id": "dunas-del-sahara-01-oasis",
+          "title": "Oasis",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/dunas-del-sahara/01-oasis.jpg"
+        },
+        {
+          "id": "dunas-del-sahara-02-caravana",
+          "title": "Caravana",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/dunas-del-sahara/02-caravana.jpg"
+        },
+        {
+          "id": "dunas-del-sahara-03-calor-del-mediodia",
+          "title": "Calor del mediodía",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/dunas-del-sahara/03-calor-del-mediodia.jpg"
+        }
+      ]
+    },
+    {
+      "id": "fondo-marino",
+      "name": "Fondo Marino",
+      "tagline": "Vida bajo el agua",
+      "icon": "fish",
+      "tint": "#1E96C8",
+      "art": [
+        {
+          "id": "fondo-marino-01-cardumen",
+          "title": "Cardumen",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fondo-marino/01-cardumen.jpg"
+        },
+        {
+          "id": "fondo-marino-02-rayos-de-luz",
+          "title": "Rayos de luz",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fondo-marino/02-rayos-de-luz.jpg"
+        },
+        {
+          "id": "fondo-marino-03-jardin-de-algas",
+          "title": "Jardín de algas",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fondo-marino/03-jardin-de-algas.jpg"
+        }
+      ]
+    },
+    {
+      "id": "fuji-nocturno",
+      "name": "Fuji Nocturno",
+      "tagline": "Luna sobre el volcán",
+      "icon": "moon",
+      "tint": "#5E60CE",
+      "art": [
+        {
+          "id": "fuji-nocturno-01-luna-de-otono",
+          "title": "Luna de otoño",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fuji-nocturno/01-luna-de-otono.jpg"
+        },
+        {
+          "id": "fuji-nocturno-02-olas-de-noche",
+          "title": "Olas de noche",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fuji-nocturno/02-olas-de-noche.jpg"
+        },
+        {
+          "id": "fuji-nocturno-03-petalos-al-viento",
+          "title": "Pétalos al viento",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fuji-nocturno/03-petalos-al-viento.jpg"
+        }
+      ]
+    },
+    {
+      "id": "galaxias",
+      "name": "Galaxias",
+      "tagline": "Viaje entre estrellas",
+      "icon": "planet",
+      "tint": "#7B61FF",
+      "art": [
+        {
+          "id": "galaxias-01-planeta-anillado",
+          "title": "Planeta anillado",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/galaxias/01-planeta-anillado.jpg"
+        },
+        {
+          "id": "galaxias-02-lunas-gemelas",
+          "title": "Lunas gemelas",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/galaxias/02-lunas-gemelas.jpg"
+        },
+        {
+          "id": "galaxias-03-mas-alla",
+          "title": "Más allá",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/galaxias/03-mas-alla.jpg"
+        }
+      ]
+    },
+    {
+      "id": "globos-aerostaticos",
+      "name": "Globos Aerostáticos",
+      "tagline": "Volando sobre las nubes",
+      "icon": "balloon",
+      "tint": "#F4A259",
+      "art": [
+        {
+          "id": "globos-aerostaticos-01-despegue",
+          "title": "Despegue",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-aerostaticos/01-despegue.jpg"
+        },
+        {
+          "id": "globos-aerostaticos-02-festival",
+          "title": "Festival",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-aerostaticos/02-festival.jpg"
+        },
+        {
+          "id": "globos-aerostaticos-03-sobre-el-valle",
+          "title": "Sobre el valle",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-aerostaticos/03-sobre-el-valle.jpg"
+        }
+      ]
+    },
+    {
+      "id": "globos-al-atardecer",
+      "name": "Globos al Atardecer",
+      "tagline": "Colores en el cielo",
+      "icon": "balloon",
+      "tint": "#E76F51",
+      "art": [
+        {
+          "id": "globos-al-atardecer-01-hora-dorada",
+          "title": "Hora dorada",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-al-atardecer/01-hora-dorada.jpg"
+        },
+        {
+          "id": "globos-al-atardecer-02-viaje-lento",
+          "title": "Viaje lento",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-al-atardecer/02-viaje-lento.jpg"
+        },
+        {
+          "id": "globos-al-atardecer-03-cielo-naranja",
+          "title": "Cielo naranja",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-al-atardecer/03-cielo-naranja.jpg"
+        }
+      ]
+    },
+    {
+      "id": "jardin-de-lavanda",
+      "name": "Jardín de Lavanda",
+      "tagline": "Aroma violeta",
+      "icon": "flower",
+      "tint": "#9D8DF1",
+      "art": [
+        {
+          "id": "jardin-de-lavanda-01-provenza",
+          "title": "Provenza",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/jardin-de-lavanda/01-provenza.jpg"
+        },
+        {
+          "id": "jardin-de-lavanda-02-lavanda-en-flor",
+          "title": "Lavanda en flor",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/jardin-de-lavanda/02-lavanda-en-flor.jpg"
+        },
+        {
+          "id": "jardin-de-lavanda-03-tarde-violeta",
+          "title": "Tarde violeta",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/jardin-de-lavanda/03-tarde-violeta.jpg"
+        }
+      ]
+    },
+    {
+      "id": "low-poly-amanecer",
+      "name": "Low Poly Amanecer",
+      "tagline": "Triángulos de luz",
+      "icon": "triangle",
+      "tint": "#FF8FA3",
+      "art": [
+        {
+          "id": "low-poly-amanecer-01-facetas",
+          "title": "Facetas",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-amanecer/01-facetas.jpg"
+        },
+        {
+          "id": "low-poly-amanecer-02-cristal",
+          "title": "Cristal",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-amanecer/02-cristal.jpg"
+        },
+        {
+          "id": "low-poly-amanecer-03-prisma",
+          "title": "Prisma",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-amanecer/03-prisma.jpg"
+        }
+      ]
+    },
+    {
+      "id": "low-poly-bosque",
+      "name": "Low Poly Bosque",
+      "tagline": "Verde geométrico",
+      "icon": "triangle",
+      "tint": "#52B788",
+      "art": [
+        {
+          "id": "low-poly-bosque-01-copas",
+          "title": "Copas",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-bosque/01-copas.jpg"
+        },
+        {
+          "id": "low-poly-bosque-02-sotobosque",
+          "title": "Sotobosque",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-bosque/02-sotobosque.jpg"
+        },
+        {
+          "id": "low-poly-bosque-03-musgo",
+          "title": "Musgo",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-bosque/03-musgo.jpg"
+        }
+      ]
+    },
+    {
+      "id": "low-poly-oceano",
+      "name": "Low Poly Océano",
+      "tagline": "Profundidad facetada",
+      "icon": "triangle",
+      "tint": "#00B4D8",
+      "art": [
+        {
+          "id": "low-poly-oceano-01-abismo",
+          "title": "Abismo",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-oceano/01-abismo.jpg"
+        },
+        {
+          "id": "low-poly-oceano-02-corriente",
+          "title": "Corriente",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-oceano/02-corriente.jpg"
+        },
+        {
+          "id": "low-poly-oceano-03-marea",
+          "title": "Marea",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-oceano/03-marea.jpg"
+        }
+      ]
+    },
+    {
+      "id": "mandalas",
+      "name": "Mandalas",
+      "tagline": "Simetría que relaja",
+      "icon": "flower",
+      "tint": "#9D4EDD",
+      "art": [
+        {
+          "id": "mandalas-01-equilibrio",
+          "title": "Equilibrio",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas/01-equilibrio.jpg"
+        },
+        {
+          "id": "mandalas-02-calma",
+          "title": "Calma",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas/02-calma.jpg"
+        },
+        {
+          "id": "mandalas-03-centro",
+          "title": "Centro",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas/03-centro.jpg"
+        }
+      ]
+    },
+    {
+      "id": "mandalas-de-sol",
+      "name": "Mandalas de Sol",
+      "tagline": "Calidez radiante",
+      "icon": "sunny",
+      "tint": "#F77F00",
+      "art": [
+        {
+          "id": "mandalas-de-sol-01-solsticio",
+          "title": "Solsticio",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-de-sol/01-solsticio.jpg"
+        },
+        {
+          "id": "mandalas-de-sol-02-corona",
+          "title": "Corona",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-de-sol/02-corona.jpg"
+        },
+        {
+          "id": "mandalas-de-sol-03-girasol",
+          "title": "Girasol",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-de-sol/03-girasol.jpg"
+        }
+      ]
+    },
+    {
+      "id": "mandalas-del-mar",
+      "name": "Mandalas del Mar",
+      "tagline": "Olas en círculo",
+      "icon": "water",
+      "tint": "#00B4D8",
+      "art": [
+        {
+          "id": "mandalas-del-mar-01-marea",
+          "title": "Marea",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-del-mar/01-marea.jpg"
+        },
+        {
+          "id": "mandalas-del-mar-02-concha",
+          "title": "Concha",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-del-mar/02-concha.jpg"
+        },
+        {
+          "id": "mandalas-del-mar-03-espuma",
+          "title": "Espuma",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-del-mar/03-espuma.jpg"
+        }
+      ]
+    },
+    {
+      "id": "mar-dorado",
+      "name": "Mar Dorado",
+      "tagline": "El sol se hunde en el agua",
+      "icon": "boat",
+      "tint": "#F2A65A",
+      "art": [
+        {
+          "id": "mar-dorado-01-velero-al-ocaso",
+          "title": "Velero al ocaso",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mar-dorado/01-velero-al-ocaso.jpg"
+        },
+        {
+          "id": "mar-dorado-02-reflejos",
+          "title": "Reflejos",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mar-dorado/02-reflejos.jpg"
+        },
+        {
+          "id": "mar-dorado-03-regreso-a-puerto",
+          "title": "Regreso a puerto",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mar-dorado/03-regreso-a-puerto.jpg"
+        }
+      ]
+    },
+    {
+      "id": "marmol",
+      "name": "Mármol",
+      "tagline": "Vetas de piedra fina",
+      "icon": "diamond",
+      "tint": "#B8A99A",
+      "art": [
+        {
+          "id": "marmol-01-veta",
+          "title": "Veta",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol/01-veta.jpg"
+        },
+        {
+          "id": "marmol-02-remolino",
+          "title": "Remolino",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol/02-remolino.jpg"
+        },
+        {
+          "id": "marmol-03-corriente",
+          "title": "Corriente",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol/03-corriente.jpg"
+        }
+      ]
+    },
+    {
+      "id": "marmol-atardecer",
+      "name": "Mármol Atardecer",
+      "tagline": "Colores que fluyen",
+      "icon": "color-filter",
+      "tint": "#F9844A",
+      "art": [
+        {
+          "id": "marmol-atardecer-01-llama",
+          "title": "Llama",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-atardecer/01-llama.jpg"
+        },
+        {
+          "id": "marmol-atardecer-02-durazno",
+          "title": "Durazno",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-atardecer/02-durazno.jpg"
+        },
+        {
+          "id": "marmol-atardecer-03-tormenta",
+          "title": "Tormenta",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-atardecer/03-tormenta.jpg"
+        }
+      ]
+    },
+    {
+      "id": "marmol-oceano",
+      "name": "Mármol Océano",
+      "tagline": "Olas líquidas",
+      "icon": "water",
+      "tint": "#2EC4B6",
+      "art": [
+        {
+          "id": "marmol-oceano-01-ola",
+          "title": "Ola",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-oceano/01-ola.jpg"
+        },
+        {
+          "id": "marmol-oceano-02-espuma",
+          "title": "Espuma",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-oceano/02-espuma.jpg"
+        },
+        {
+          "id": "marmol-oceano-03-arrecife",
+          "title": "Arrecife",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-oceano/03-arrecife.jpg"
+        }
+      ]
+    },
+    {
+      "id": "memphis",
+      "name": "Memphis",
+      "tagline": "Diversión de los 80",
+      "icon": "color-palette",
+      "tint": "#FF5D8F",
+      "art": [
+        {
+          "id": "memphis-01-confeti",
+          "title": "Confeti",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis/01-confeti.jpg"
+        },
+        {
+          "id": "memphis-02-garabatos",
+          "title": "Garabatos",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis/02-garabatos.jpg"
+        },
+        {
+          "id": "memphis-03-fiesta",
+          "title": "Fiesta",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis/03-fiesta.jpg"
+        }
+      ]
+    },
+    {
+      "id": "memphis-noche",
+      "name": "Memphis Nocturno",
+      "tagline": "Fiesta de formas",
+      "icon": "color-palette",
+      "tint": "#F72585",
+      "art": [
+        {
+          "id": "memphis-noche-01-disco",
+          "title": "Disco",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis-noche/01-disco.jpg"
+        },
+        {
+          "id": "memphis-noche-02-neon",
+          "title": "Neón",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis-noche/02-neon.jpg"
+        },
+        {
+          "id": "memphis-noche-03-serpentina",
+          "title": "Serpentina",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis-noche/03-serpentina.jpg"
+        }
+      ]
+    },
+    {
+      "id": "monte-fuji",
+      "name": "Monte Fuji",
+      "tagline": "Japón en estampa",
+      "icon": "flower",
+      "tint": "#E63946",
+      "art": [
+        {
+          "id": "monte-fuji-01-sol-naciente",
+          "title": "Sol naciente",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/monte-fuji/01-sol-naciente.jpg"
+        },
+        {
+          "id": "monte-fuji-02-gran-ola",
+          "title": "Gran ola",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/monte-fuji/02-gran-ola.jpg"
+        },
+        {
+          "id": "monte-fuji-03-sakura",
+          "title": "Sakura",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/monte-fuji/03-sakura.jpg"
+        }
+      ]
+    },
+    {
+      "id": "mosaico-dulce",
+      "name": "Mosaico Dulce",
+      "tagline": "Curvas color caramelo",
+      "icon": "grid",
+      "tint": "#FF8FAB",
+      "art": [
+        {
+          "id": "mosaico-dulce-01-caramelo",
+          "title": "Caramelo",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-dulce/01-caramelo.jpg"
+        },
+        {
+          "id": "mosaico-dulce-02-remolinos",
+          "title": "Remolinos",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-dulce/02-remolinos.jpg"
+        },
+        {
+          "id": "mosaico-dulce-03-cinta",
+          "title": "Cinta",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-dulce/03-cinta.jpg"
+        }
+      ]
+    },
+    {
+      "id": "mosaico-truchet",
+      "name": "Mosaico",
+      "tagline": "Laberintos de curvas",
+      "icon": "grid",
+      "tint": "#2A9D8F",
+      "art": [
+        {
+          "id": "mosaico-truchet-01-laberinto",
+          "title": "Laberinto",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-truchet/01-laberinto.jpg"
+        },
+        {
+          "id": "mosaico-truchet-02-ondas",
+          "title": "Ondas",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-truchet/02-ondas.jpg"
+        },
+        {
+          "id": "mosaico-truchet-03-trenzado",
+          "title": "Trenzado",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-truchet/03-trenzado.jpg"
+        }
+      ]
+    },
+    {
+      "id": "nebulosa-azul",
+      "name": "Nebulosa Azul",
+      "tagline": "Polvo de estrellas",
+      "icon": "rocket",
+      "tint": "#00BBF9",
+      "art": [
+        {
+          "id": "nebulosa-azul-01-orbita",
+          "title": "Órbita",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/nebulosa-azul/01-orbita.jpg"
+        },
+        {
+          "id": "nebulosa-azul-02-polvo-cosmico",
+          "title": "Polvo cósmico",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/nebulosa-azul/02-polvo-cosmico.jpg"
+        },
+        {
+          "id": "nebulosa-azul-03-estrella-fugaz",
+          "title": "Estrella fugaz",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/nebulosa-azul/03-estrella-fugaz.jpg"
+        }
+      ]
+    },
+    {
+      "id": "noche-estrellada",
+      "name": "Noche Estrellada",
+      "tagline": "Montañas bajo el cielo",
+      "icon": "moon",
+      "tint": "#3D4FA3",
+      "art": [
+        {
+          "id": "noche-estrellada-01-luna-llena",
+          "title": "Luna llena",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noche-estrellada/01-luna-llena.jpg"
+        },
+        {
+          "id": "noche-estrellada-02-silencio-azul",
+          "title": "Silencio azul",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noche-estrellada/02-silencio-azul.jpg"
+        },
+        {
+          "id": "noche-estrellada-03-cielo-infinito",
+          "title": "Cielo infinito",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noche-estrellada/03-cielo-infinito.jpg"
+        }
+      ]
+    },
+    {
+      "id": "noches-de-neon",
+      "name": "Noches de Neón",
+      "tagline": "Calles de colores",
+      "icon": "flash",
+      "tint": "#FF3CAC",
+      "art": [
+        {
+          "id": "noches-de-neon-01-calle-mojada",
+          "title": "Calle mojada",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noches-de-neon/01-calle-mojada.jpg"
+        },
+        {
+          "id": "noches-de-neon-02-bulevar",
+          "title": "Bulevar",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noches-de-neon/02-bulevar.jpg"
+        },
+        {
+          "id": "noches-de-neon-03-azoteas",
+          "title": "Azoteas",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noches-de-neon/03-azoteas.jpg"
+        }
+      ]
+    },
+    {
+      "id": "outrun",
+      "name": "Outrun",
+      "tagline": "Carretera al infinito",
+      "icon": "car-sport",
+      "tint": "#00F0FF",
+      "art": [
+        {
+          "id": "outrun-01-autopista",
+          "title": "Autopista",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/outrun/01-autopista.jpg"
+        },
+        {
+          "id": "outrun-02-casete",
+          "title": "Casete",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/outrun/02-casete.jpg"
+        },
+        {
+          "id": "outrun-03-medianoche-retro",
+          "title": "Medianoche retro",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/outrun/03-medianoche-retro.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pixel-aventura",
+      "name": "Pixel Aventura",
+      "tagline": "Mundos de 8 bits",
+      "icon": "game-controller",
+      "tint": "#5B8CFF",
+      "art": [
+        {
+          "id": "pixel-aventura-01-nivel-1",
+          "title": "Nivel 1",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-aventura/01-nivel-1.jpg"
+        },
+        {
+          "id": "pixel-aventura-02-isla-secreta",
+          "title": "Isla secreta",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-aventura/02-isla-secreta.jpg"
+        },
+        {
+          "id": "pixel-aventura-03-jefe-final",
+          "title": "Jefe final",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-aventura/03-jefe-final.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pixel-invierno",
+      "name": "Pixel Invierno",
+      "tagline": "Nieve en píxeles",
+      "icon": "snow",
+      "tint": "#A2D2FF",
+      "art": [
+        {
+          "id": "pixel-invierno-01-bola-de-nieve",
+          "title": "Bola de nieve",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-invierno/01-bola-de-nieve.jpg"
+        },
+        {
+          "id": "pixel-invierno-02-iglu",
+          "title": "Iglú",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-invierno/02-iglu.jpg"
+        },
+        {
+          "id": "pixel-invierno-03-cumbre",
+          "title": "Cumbre",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-invierno/03-cumbre.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pixel-noche",
+      "name": "Pixel Noche",
+      "tagline": "Estrellas cuadradas",
+      "icon": "moon",
+      "tint": "#3F37C9",
+      "art": [
+        {
+          "id": "pixel-noche-01-luna-8-bits",
+          "title": "Luna 8 bits",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-noche/01-luna-8-bits.jpg"
+        },
+        {
+          "id": "pixel-noche-02-insert-coin",
+          "title": "Insert coin",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-noche/02-insert-coin.jpg"
+        },
+        {
+          "id": "pixel-noche-03-puntaje-alto",
+          "title": "Puntaje alto",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-noche/03-puntaje-alto.jpg"
+        }
+      ]
+    },
+    {
+      "id": "pixel-ocaso",
+      "name": "Pixel Ocaso",
+      "tagline": "Atardecer retro",
+      "icon": "game-controller",
+      "tint": "#F25F5C",
+      "art": [
+        {
+          "id": "pixel-ocaso-01-game-over",
+          "title": "Game over",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-ocaso/01-game-over.jpg"
+        },
+        {
+          "id": "pixel-ocaso-02-puesta-de-sol",
+          "title": "Puesta de sol",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-ocaso/02-puesta-de-sol.jpg"
+        },
+        {
+          "id": "pixel-ocaso-03-continuar",
+          "title": "Continuar",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-ocaso/03-continuar.jpg"
+        }
+      ]
+    },
+    {
+      "id": "synthwave",
+      "name": "Synthwave",
+      "tagline": "Retro futuro de los 80",
+      "icon": "musical-notes",
+      "tint": "#F72585",
+      "art": [
+        {
+          "id": "synthwave-01-horizonte",
+          "title": "Horizonte",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/synthwave/01-horizonte.jpg"
+        },
+        {
+          "id": "synthwave-02-ruta-80",
+          "title": "Ruta 80",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/synthwave/02-ruta-80.jpg"
+        },
+        {
+          "id": "synthwave-03-sol-digital",
+          "title": "Sol digital",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/synthwave/03-sol-digital.jpg"
+        }
+      ]
+    },
+    {
+      "id": "valle-verde",
+      "name": "Valle Verde",
+      "tagline": "Colinas que respiran",
+      "icon": "leaf",
+      "tint": "#5BAA6A",
+      "art": [
+        {
+          "id": "valle-verde-01-prados-lejanos",
+          "title": "Prados lejanos",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/valle-verde/01-prados-lejanos.jpg"
+        },
+        {
+          "id": "valle-verde-02-brisa-de-primavera",
+          "title": "Brisa de primavera",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/valle-verde/02-brisa-de-primavera.jpg"
+        },
+        {
+          "id": "valle-verde-03-senderos",
+          "title": "Senderos",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/valle-verde/03-senderos.jpg"
+        }
+      ]
+    },
+    {
+      "id": "vitrales",
+      "name": "Vitrales",
+      "tagline": "Luz de catedral",
+      "icon": "prism",
+      "tint": "#3A86FF",
+      "art": [
+        {
+          "id": "vitrales-01-roseton",
+          "title": "Rosetón",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales/01-roseton.jpg"
+        },
+        {
+          "id": "vitrales-02-ventanal",
+          "title": "Ventanal",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales/02-ventanal.jpg"
+        },
+        {
+          "id": "vitrales-03-destello",
+          "title": "Destello",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales/03-destello.jpg"
+        }
+      ]
+    },
+    {
+      "id": "vitrales-de-fuego",
+      "name": "Vitrales de Fuego",
+      "tagline": "Rojo, ámbar y oro",
+      "icon": "flame",
+      "tint": "#D00000",
+      "art": [
+        {
+          "id": "vitrales-de-fuego-01-brasa",
+          "title": "Brasa",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-de-fuego/01-brasa.jpg"
+        },
+        {
+          "id": "vitrales-de-fuego-02-ambar",
+          "title": "Ámbar",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-de-fuego/02-ambar.jpg"
+        },
+        {
+          "id": "vitrales-de-fuego-03-fenix",
+          "title": "Fénix",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-de-fuego/03-fenix.jpg"
+        }
+      ]
+    },
+    {
+      "id": "vitrales-del-bosque",
+      "name": "Vitrales del Bosque",
+      "tagline": "Verde esmeralda",
+      "icon": "prism",
+      "tint": "#2D6A4F",
+      "art": [
+        {
+          "id": "vitrales-del-bosque-01-esmeralda",
+          "title": "Esmeralda",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-del-bosque/01-esmeralda.jpg"
+        },
+        {
+          "id": "vitrales-del-bosque-02-hojas-de-luz",
+          "title": "Hojas de luz",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-del-bosque/02-hojas-de-luz.jpg"
+        },
+        {
+          "id": "vitrales-del-bosque-03-musgo",
+          "title": "Musgo",
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-del-bosque/03-musgo.jpg"
+        }
+      ]
+    }
+  ]
 }
