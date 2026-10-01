@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "packs": [
     {
       "id": "amanecer-alpino",
@@ -7,21 +7,78 @@
       "tagline": "Luz rosada sobre la nieve",
       "icon": "partly-sunny",
       "tint": "#F5A3B7",
+      "i18n": {
+        "en": {
+          "name": "Alpine Dawn",
+          "tagline": "Pink light on the snow"
+        },
+        "pt": {
+          "name": "Amanhecer Alpino",
+          "tagline": "Luz rosada sobre a neve"
+        },
+        "fr": {
+          "name": "Aube alpine",
+          "tagline": "Lumière rose sur la neige"
+        },
+        "de": {
+          "name": "Alpenmorgen",
+          "tagline": "Rosa Licht auf dem Schnee"
+        },
+        "zh": {
+          "name": "阿尔卑斯晨曦",
+          "tagline": "雪上的粉色光芒"
+        },
+        "ko": {
+          "name": "알프스의 새벽",
+          "tagline": "눈 위의 분홍빛"
+        },
+        "ja": {
+          "name": "アルプスの夜明け",
+          "tagline": "雪に映るピンクの光"
+        }
+      },
       "art": [
         {
           "id": "amanecer-alpino-01-primera-luz",
           "title": "Primera luz",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/amanecer-alpino/01-primera-luz.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/amanecer-alpino/01-primera-luz.jpg",
+          "titles": {
+            "en": "First light",
+            "pt": "Primeira luz",
+            "fr": "Premières lueurs",
+            "de": "Erstes Licht",
+            "zh": "第一缕光",
+            "ko": "첫 햇살",
+            "ja": "最初の光"
+          }
         },
         {
           "id": "amanecer-alpino-02-picos-de-algodon",
           "title": "Picos de algodón",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/amanecer-alpino/02-picos-de-algodon.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/amanecer-alpino/02-picos-de-algodon.jpg",
+          "titles": {
+            "en": "Cotton peaks",
+            "pt": "Picos de algodão",
+            "fr": "Pics de coton",
+            "de": "Watte-Gipfel",
+            "zh": "棉花山峰",
+            "ko": "솜사탕 봉우리",
+            "ja": "綿のような峰"
+          }
         },
         {
           "id": "amanecer-alpino-03-manana-tranquila",
           "title": "Mañana tranquila",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/amanecer-alpino/03-manana-tranquila.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/amanecer-alpino/03-manana-tranquila.jpg",
+          "titles": {
+            "en": "Quiet morning",
+            "pt": "Manhã tranquila",
+            "fr": "Matin paisible",
+            "de": "Stiller Morgen",
+            "zh": "宁静的早晨",
+            "ko": "고요한 아침",
+            "ja": "静かな朝"
+          }
         }
       ]
     },
@@ -31,21 +88,78 @@
       "tagline": "Peces de mil colores",
       "icon": "fish",
       "tint": "#FF6B6B",
+      "i18n": {
+        "en": {
+          "name": "Tropical Reef",
+          "tagline": "Fish of a thousand colors"
+        },
+        "pt": {
+          "name": "Recife Tropical",
+          "tagline": "Peixes de mil cores"
+        },
+        "fr": {
+          "name": "Récif tropical",
+          "tagline": "Des poissons de mille couleurs"
+        },
+        "de": {
+          "name": "Tropisches Riff",
+          "tagline": "Fische in tausend Farben"
+        },
+        "zh": {
+          "name": "热带珊瑚礁",
+          "tagline": "五彩缤纷的鱼儿"
+        },
+        "ko": {
+          "name": "열대 산호초",
+          "tagline": "천 가지 색의 물고기"
+        },
+        "ja": {
+          "name": "熱帯のサンゴ礁",
+          "tagline": "色とりどりの魚たち"
+        }
+      },
       "art": [
         {
           "id": "arrecife-tropical-01-coral",
           "title": "Coral",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/arrecife-tropical/01-coral.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/arrecife-tropical/01-coral.jpg",
+          "titles": {
+            "en": "Coral",
+            "pt": "Coral",
+            "fr": "Corail",
+            "de": "Koralle",
+            "zh": "珊瑚",
+            "ko": "산호",
+            "ja": "サンゴ"
+          }
         },
         {
           "id": "arrecife-tropical-02-burbujas",
           "title": "Burbujas",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/arrecife-tropical/02-burbujas.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/arrecife-tropical/02-burbujas.jpg",
+          "titles": {
+            "en": "Bubbles",
+            "pt": "Bolhas",
+            "fr": "Bulles",
+            "de": "Blasen",
+            "zh": "气泡",
+            "ko": "물방울",
+            "ja": "泡"
+          }
         },
         {
           "id": "arrecife-tropical-03-marea-baja",
           "title": "Marea baja",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/arrecife-tropical/03-marea-baja.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/arrecife-tropical/03-marea-baja.jpg",
+          "titles": {
+            "en": "Low tide",
+            "pt": "Maré baixa",
+            "fr": "Marée basse",
+            "de": "Ebbe",
+            "zh": "退潮",
+            "ko": "썰물",
+            "ja": "引き潮"
+          }
         }
       ]
     },
@@ -55,21 +169,78 @@
       "tagline": "Cumbres al final del día",
       "icon": "sunny",
       "tint": "#F2795B",
+      "i18n": {
+        "en": {
+          "name": "Andean Sunset",
+          "tagline": "Peaks at the end of the day"
+        },
+        "pt": {
+          "name": "Pôr do Sol Andino",
+          "tagline": "Cumes no fim do dia"
+        },
+        "fr": {
+          "name": "Crépuscule andin",
+          "tagline": "Des sommets en fin de journée"
+        },
+        "de": {
+          "name": "Anden-Abendrot",
+          "tagline": "Gipfel am Ende des Tages"
+        },
+        "zh": {
+          "name": "安第斯落日",
+          "tagline": "日暮时分的群峰"
+        },
+        "ko": {
+          "name": "안데스의 노을",
+          "tagline": "하루의 끝자락 봉우리"
+        },
+        "ja": {
+          "name": "アンデスの夕焼け",
+          "tagline": "一日の終わりの山々"
+        }
+      },
       "art": [
         {
           "id": "atardecer-andino-01-cordillera-en-llamas",
           "title": "Cordillera en llamas",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/atardecer-andino/01-cordillera-en-llamas.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/atardecer-andino/01-cordillera-en-llamas.jpg",
+          "titles": {
+            "en": "Mountains ablaze",
+            "pt": "Cordilheira em chamas",
+            "fr": "Cordillère en feu",
+            "de": "Glühende Kordillere",
+            "zh": "燃烧的山脉",
+            "ko": "불타는 산맥",
+            "ja": "燃える山脈"
+          }
         },
         {
           "id": "atardecer-andino-02-valle-dorado",
           "title": "Valle dorado",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/atardecer-andino/02-valle-dorado.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/atardecer-andino/02-valle-dorado.jpg",
+          "titles": {
+            "en": "Golden valley",
+            "pt": "Vale dourado",
+            "fr": "Vallée dorée",
+            "de": "Goldenes Tal",
+            "zh": "金色山谷",
+            "ko": "황금빛 계곡",
+            "ja": "黄金の谷"
+          }
         },
         {
           "id": "atardecer-andino-03-ultimo-rayo",
           "title": "Último rayo",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/atardecer-andino/03-ultimo-rayo.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/atardecer-andino/03-ultimo-rayo.jpg",
+          "titles": {
+            "en": "Last ray",
+            "pt": "Último raio",
+            "fr": "Dernier rayon",
+            "de": "Letzter Strahl",
+            "zh": "最后一缕光",
+            "ko": "마지막 햇살",
+            "ja": "最後の光"
+          }
         }
       ]
     },
@@ -79,21 +250,78 @@
       "tagline": "Luces del norte",
       "icon": "sparkles",
       "tint": "#3DDC97",
+      "i18n": {
+        "en": {
+          "name": "Northern Lights",
+          "tagline": "Lights of the north"
+        },
+        "pt": {
+          "name": "Aurora Boreal",
+          "tagline": "Luzes do norte"
+        },
+        "fr": {
+          "name": "Aurore boréale",
+          "tagline": "Lumières du Nord"
+        },
+        "de": {
+          "name": "Nordlicht",
+          "tagline": "Lichter des Nordens"
+        },
+        "zh": {
+          "name": "北极光",
+          "tagline": "来自北方的光"
+        },
+        "ko": {
+          "name": "북극광",
+          "tagline": "북쪽의 빛"
+        },
+        "ja": {
+          "name": "オーロラ",
+          "tagline": "北の光"
+        }
+      },
       "art": [
         {
           "id": "aurora-boreal-01-danza-verde",
           "title": "Danza verde",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-boreal/01-danza-verde.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-boreal/01-danza-verde.jpg",
+          "titles": {
+            "en": "Green dance",
+            "pt": "Dança verde",
+            "fr": "Danse verte",
+            "de": "Grüner Tanz",
+            "zh": "绿色之舞",
+            "ko": "초록빛 춤",
+            "ja": "緑のダンス"
+          }
         },
         {
           "id": "aurora-boreal-02-noche-artica",
           "title": "Noche ártica",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-boreal/02-noche-artica.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-boreal/02-noche-artica.jpg",
+          "titles": {
+            "en": "Arctic night",
+            "pt": "Noite ártica",
+            "fr": "Nuit arctique",
+            "de": "Arktische Nacht",
+            "zh": "北极之夜",
+            "ko": "북극의 밤",
+            "ja": "北極の夜"
+          }
         },
         {
           "id": "aurora-boreal-03-cielo-vivo",
           "title": "Cielo vivo",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-boreal/03-cielo-vivo.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-boreal/03-cielo-vivo.jpg",
+          "titles": {
+            "en": "Living sky",
+            "pt": "Céu vivo",
+            "fr": "Ciel vivant",
+            "de": "Lebendiger Himmel",
+            "zh": "灵动的天空",
+            "ko": "살아 있는 하늘",
+            "ja": "息づく空"
+          }
         }
       ]
     },
@@ -103,21 +331,78 @@
       "tagline": "Un cielo que cambia de color",
       "icon": "sparkles",
       "tint": "#F07BC1",
+      "i18n": {
+        "en": {
+          "name": "Pink Aurora",
+          "tagline": "A sky that changes color"
+        },
+        "pt": {
+          "name": "Aurora Rosa",
+          "tagline": "Um céu que muda de cor"
+        },
+        "fr": {
+          "name": "Aurore rose",
+          "tagline": "Un ciel qui change de couleur"
+        },
+        "de": {
+          "name": "Rosa Polarlicht",
+          "tagline": "Ein Himmel, der die Farbe wechselt"
+        },
+        "zh": {
+          "name": "粉色极光",
+          "tagline": "变幻色彩的天空"
+        },
+        "ko": {
+          "name": "분홍 오로라",
+          "tagline": "색이 바뀌는 하늘"
+        },
+        "ja": {
+          "name": "ピンクのオーロラ",
+          "tagline": "色が移ろう空"
+        }
+      },
       "art": [
         {
           "id": "aurora-rosa-01-velo-rosado",
           "title": "Velo rosado",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-rosa/01-velo-rosado.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-rosa/01-velo-rosado.jpg",
+          "titles": {
+            "en": "Pink veil",
+            "pt": "Véu rosado",
+            "fr": "Voile rosé",
+            "de": "Rosa Schleier",
+            "zh": "粉色面纱",
+            "ko": "분홍빛 베일",
+            "ja": "ばら色のベール"
+          }
         },
         {
           "id": "aurora-rosa-02-polo-norte",
           "title": "Polo norte",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-rosa/02-polo-norte.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-rosa/02-polo-norte.jpg",
+          "titles": {
+            "en": "North Pole",
+            "pt": "Polo Norte",
+            "fr": "Pôle Nord",
+            "de": "Nordpol",
+            "zh": "北极",
+            "ko": "북극",
+            "ja": "北極"
+          }
         },
         {
           "id": "aurora-rosa-03-destellos",
           "title": "Destellos",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-rosa/03-destellos.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/aurora-rosa/03-destellos.jpg",
+          "titles": {
+            "en": "Sparkles",
+            "pt": "Lampejos",
+            "fr": "Éclats",
+            "de": "Funkeln",
+            "zh": "闪光",
+            "ko": "반짝임",
+            "ja": "きらめき"
+          }
         }
       ]
     },
@@ -127,21 +412,78 @@
       "tagline": "Formas y colores puros",
       "icon": "shapes",
       "tint": "#E63946",
+      "i18n": {
+        "en": {
+          "name": "Bauhaus",
+          "tagline": "Pure shapes and colors"
+        },
+        "pt": {
+          "name": "Bauhaus",
+          "tagline": "Formas e cores puras"
+        },
+        "fr": {
+          "name": "Bauhaus",
+          "tagline": "Formes et couleurs pures"
+        },
+        "de": {
+          "name": "Bauhaus",
+          "tagline": "Reine Formen und Farben"
+        },
+        "zh": {
+          "name": "包豪斯",
+          "tagline": "纯粹的形状与色彩"
+        },
+        "ko": {
+          "name": "바우하우스",
+          "tagline": "순수한 형태와 색"
+        },
+        "ja": {
+          "name": "バウハウス",
+          "tagline": "純粋な形と色"
+        }
+      },
       "art": [
         {
           "id": "bauhaus-01-composicion-i",
           "title": "Composición I",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus/01-composicion-i.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus/01-composicion-i.jpg",
+          "titles": {
+            "en": "Composition I",
+            "pt": "Composição I",
+            "fr": "Composition I",
+            "de": "Komposition I",
+            "zh": "构成 I",
+            "ko": "구성 I",
+            "ja": "コンポジション I"
+          }
         },
         {
           "id": "bauhaus-02-composicion-ii",
           "title": "Composición II",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus/02-composicion-ii.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus/02-composicion-ii.jpg",
+          "titles": {
+            "en": "Composition II",
+            "pt": "Composição II",
+            "fr": "Composition II",
+            "de": "Komposition II",
+            "zh": "构成 II",
+            "ko": "구성 II",
+            "ja": "コンポジション II"
+          }
         },
         {
           "id": "bauhaus-03-composicion-iii",
           "title": "Composición III",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus/03-composicion-iii.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus/03-composicion-iii.jpg",
+          "titles": {
+            "en": "Composition III",
+            "pt": "Composição III",
+            "fr": "Composition III",
+            "de": "Komposition III",
+            "zh": "构成 III",
+            "ko": "구성 III",
+            "ja": "コンポジション III"
+          }
         }
       ]
     },
@@ -151,21 +493,78 @@
       "tagline": "Geometría suave",
       "icon": "shapes",
       "tint": "#A8DADC",
+      "i18n": {
+        "en": {
+          "name": "Pastel Bauhaus",
+          "tagline": "Soft geometry"
+        },
+        "pt": {
+          "name": "Bauhaus Pastel",
+          "tagline": "Geometria suave"
+        },
+        "fr": {
+          "name": "Bauhaus pastel",
+          "tagline": "Une géométrie douce"
+        },
+        "de": {
+          "name": "Bauhaus Pastell",
+          "tagline": "Sanfte Geometrie"
+        },
+        "zh": {
+          "name": "粉彩包豪斯",
+          "tagline": "柔和的几何"
+        },
+        "ko": {
+          "name": "파스텔 바우하우스",
+          "tagline": "부드러운 기하학"
+        },
+        "ja": {
+          "name": "パステル・バウハウス",
+          "tagline": "やさしい幾何学"
+        }
+      },
       "art": [
         {
           "id": "bauhaus-pastel-01-contrapunto",
           "title": "Contrapunto",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus-pastel/01-contrapunto.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus-pastel/01-contrapunto.jpg",
+          "titles": {
+            "en": "Counterpoint",
+            "pt": "Contraponto",
+            "fr": "Contrepoint",
+            "de": "Kontrapunkt",
+            "zh": "对位",
+            "ko": "대위법",
+            "ja": "対位法"
+          }
         },
         {
           "id": "bauhaus-pastel-02-ritmo",
           "title": "Ritmo",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus-pastel/02-ritmo.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus-pastel/02-ritmo.jpg",
+          "titles": {
+            "en": "Rhythm",
+            "pt": "Ritmo",
+            "fr": "Rythme",
+            "de": "Rhythmus",
+            "zh": "节奏",
+            "ko": "리듬",
+            "ja": "リズム"
+          }
         },
         {
           "id": "bauhaus-pastel-03-armonia",
           "title": "Armonía",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus-pastel/03-armonia.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bauhaus-pastel/03-armonia.jpg",
+          "titles": {
+            "en": "Harmony",
+            "pt": "Harmonia",
+            "fr": "Harmonie",
+            "de": "Harmonie",
+            "zh": "和谐",
+            "ko": "조화",
+            "ja": "ハーモニー"
+          }
         }
       ]
     },
@@ -175,21 +574,78 @@
       "tagline": "Pinos entre la niebla",
       "icon": "trail-sign",
       "tint": "#5E8C7A",
+      "i18n": {
+        "en": {
+          "name": "Misty Forest",
+          "tagline": "Pines in the fog"
+        },
+        "pt": {
+          "name": "Floresta Enevoada",
+          "tagline": "Pinheiros entre a névoa"
+        },
+        "fr": {
+          "name": "Forêt brumeuse",
+          "tagline": "Des pins dans le brouillard"
+        },
+        "de": {
+          "name": "Nebelwald",
+          "tagline": "Kiefern im Nebel"
+        },
+        "zh": {
+          "name": "雾中森林",
+          "tagline": "雾里的松林"
+        },
+        "ko": {
+          "name": "안개 낀 숲",
+          "tagline": "안개 속 소나무"
+        },
+        "ja": {
+          "name": "霧の森",
+          "tagline": "霧に包まれた松"
+        }
+      },
       "art": [
         {
           "id": "bosque-brumoso-01-niebla-matinal",
           "title": "Niebla matinal",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-brumoso/01-niebla-matinal.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-brumoso/01-niebla-matinal.jpg",
+          "titles": {
+            "en": "Morning mist",
+            "pt": "Névoa matinal",
+            "fr": "Brume matinale",
+            "de": "Morgennebel",
+            "zh": "晨雾",
+            "ko": "아침 안개",
+            "ja": "朝霧"
+          }
         },
         {
           "id": "bosque-brumoso-02-pinar-profundo",
           "title": "Pinar profundo",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-brumoso/02-pinar-profundo.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-brumoso/02-pinar-profundo.jpg",
+          "titles": {
+            "en": "Deep pinewood",
+            "pt": "Pinheiral profundo",
+            "fr": "Pinède profonde",
+            "de": "Tiefer Kiefernwald",
+            "zh": "幽深松林",
+            "ko": "깊은 솔숲",
+            "ja": "深い松林"
+          }
         },
         {
           "id": "bosque-brumoso-03-claro-del-bosque",
           "title": "Claro del bosque",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-brumoso/03-claro-del-bosque.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-brumoso/03-claro-del-bosque.jpg",
+          "titles": {
+            "en": "Forest clearing",
+            "pt": "Clareira",
+            "fr": "Clairière",
+            "de": "Waldlichtung",
+            "zh": "林中空地",
+            "ko": "숲속 빈터",
+            "ja": "森の空き地"
+          }
         }
       ]
     },
@@ -199,21 +655,78 @@
       "tagline": "Luna sobre los pinos",
       "icon": "moon",
       "tint": "#4C5FA8",
+      "i18n": {
+        "en": {
+          "name": "Night Forest",
+          "tagline": "Moon over the pines"
+        },
+        "pt": {
+          "name": "Floresta Noturna",
+          "tagline": "Lua sobre os pinheiros"
+        },
+        "fr": {
+          "name": "Forêt nocturne",
+          "tagline": "La lune sur les pins"
+        },
+        "de": {
+          "name": "Nachtwald",
+          "tagline": "Mond über den Kiefern"
+        },
+        "zh": {
+          "name": "夜之森林",
+          "tagline": "松林上的月亮"
+        },
+        "ko": {
+          "name": "밤의 숲",
+          "tagline": "소나무 위의 달"
+        },
+        "ja": {
+          "name": "夜の森",
+          "tagline": "松の上の月"
+        }
+      },
       "art": [
         {
           "id": "bosque-nocturno-01-luna-de-plata",
           "title": "Luna de plata",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-nocturno/01-luna-de-plata.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-nocturno/01-luna-de-plata.jpg",
+          "titles": {
+            "en": "Silver moon",
+            "pt": "Lua de prata",
+            "fr": "Lune d’argent",
+            "de": "Silbermond",
+            "zh": "银色月亮",
+            "ko": "은빛 달",
+            "ja": "銀の月"
+          }
         },
         {
           "id": "bosque-nocturno-02-buhos-despiertos",
           "title": "Búhos despiertos",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-nocturno/02-buhos-despiertos.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-nocturno/02-buhos-despiertos.jpg",
+          "titles": {
+            "en": "Owls awake",
+            "pt": "Corujas acordadas",
+            "fr": "Hiboux éveillés",
+            "de": "Wache Eulen",
+            "zh": "醒着的猫头鹰",
+            "ko": "깨어 있는 부엉이",
+            "ja": "目覚めたフクロウ"
+          }
         },
         {
           "id": "bosque-nocturno-03-medianoche",
           "title": "Medianoche",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-nocturno/03-medianoche.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-nocturno/03-medianoche.jpg",
+          "titles": {
+            "en": "Midnight",
+            "pt": "Meia-noite",
+            "fr": "Minuit",
+            "de": "Mitternacht",
+            "zh": "午夜",
+            "ko": "한밤중",
+            "ja": "真夜中"
+          }
         }
       ]
     },
@@ -223,21 +736,78 @@
       "tagline": "Cálido y anaranjado",
       "icon": "leaf",
       "tint": "#D9733B",
+      "i18n": {
+        "en": {
+          "name": "Autumn Forest",
+          "tagline": "Warm and orange"
+        },
+        "pt": {
+          "name": "Floresta de Outono",
+          "tagline": "Quente e alaranjada"
+        },
+        "fr": {
+          "name": "Forêt d’automne",
+          "tagline": "Chaude et orangée"
+        },
+        "de": {
+          "name": "Herbstwald",
+          "tagline": "Warm und orange"
+        },
+        "zh": {
+          "name": "秋日森林",
+          "tagline": "温暖的橙色"
+        },
+        "ko": {
+          "name": "가을 숲",
+          "tagline": "따뜻한 주황빛"
+        },
+        "ja": {
+          "name": "秋の森",
+          "tagline": "あたたかなオレンジ"
+        }
+      },
       "art": [
         {
           "id": "bosque-otono-01-hojas-caidas",
           "title": "Hojas caídas",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-otono/01-hojas-caidas.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-otono/01-hojas-caidas.jpg",
+          "titles": {
+            "en": "Fallen leaves",
+            "pt": "Folhas caídas",
+            "fr": "Feuilles mortes",
+            "de": "Gefallene Blätter",
+            "zh": "落叶",
+            "ko": "낙엽",
+            "ja": "落ち葉"
+          }
         },
         {
           "id": "bosque-otono-02-tarde-de-octubre",
           "title": "Tarde de octubre",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-otono/02-tarde-de-octubre.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-otono/02-tarde-de-octubre.jpg",
+          "titles": {
+            "en": "October afternoon",
+            "pt": "Tarde de outubro",
+            "fr": "Après-midi d’octobre",
+            "de": "Oktobernachmittag",
+            "zh": "十月的午后",
+            "ko": "10월의 오후",
+            "ja": "十月の午後"
+          }
         },
         {
           "id": "bosque-otono-03-camino-ocre",
           "title": "Camino ocre",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-otono/03-camino-ocre.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/bosque-otono/03-camino-ocre.jpg",
+          "titles": {
+            "en": "Ochre path",
+            "pt": "Caminho ocre",
+            "fr": "Chemin ocre",
+            "de": "Ockerweg",
+            "zh": "赭色小径",
+            "ko": "황톳빛 길",
+            "ja": "黄土色の小道"
+          }
         }
       ]
     },
@@ -247,21 +817,78 @@
       "tagline": "Primavera en colores",
       "icon": "flower",
       "tint": "#F28482",
+      "i18n": {
+        "en": {
+          "name": "Flower Field",
+          "tagline": "Spring in color"
+        },
+        "pt": {
+          "name": "Campo de Flores",
+          "tagline": "Primavera em cores"
+        },
+        "fr": {
+          "name": "Champ de fleurs",
+          "tagline": "Le printemps en couleurs"
+        },
+        "de": {
+          "name": "Blumenfeld",
+          "tagline": "Frühling in Farbe"
+        },
+        "zh": {
+          "name": "花田",
+          "tagline": "缤纷的春天"
+        },
+        "ko": {
+          "name": "꽃밭",
+          "tagline": "색으로 물든 봄"
+        },
+        "ja": {
+          "name": "花畑",
+          "tagline": "色とりどりの春"
+        }
+      },
       "art": [
         {
           "id": "campo-de-flores-01-pradera",
           "title": "Pradera",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/campo-de-flores/01-pradera.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/campo-de-flores/01-pradera.jpg",
+          "titles": {
+            "en": "Meadow",
+            "pt": "Pradaria",
+            "fr": "Prairie",
+            "de": "Wiese",
+            "zh": "草原",
+            "ko": "초원",
+            "ja": "草原"
+          }
         },
         {
           "id": "campo-de-flores-02-ramillete",
           "title": "Ramillete",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/campo-de-flores/02-ramillete.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/campo-de-flores/02-ramillete.jpg",
+          "titles": {
+            "en": "Bouquet",
+            "pt": "Ramalhete",
+            "fr": "Bouquet",
+            "de": "Blumenstrauß",
+            "zh": "花束",
+            "ko": "꽃다발",
+            "ja": "花束"
+          }
         },
         {
           "id": "campo-de-flores-03-manana-de-abril",
           "title": "Mañana de abril",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/campo-de-flores/03-manana-de-abril.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/campo-de-flores/03-manana-de-abril.jpg",
+          "titles": {
+            "en": "April morning",
+            "pt": "Manhã de abril",
+            "fr": "Matin d’avril",
+            "de": "Aprilmorgen",
+            "zh": "四月的早晨",
+            "ko": "4월의 아침",
+            "ja": "四月の朝"
+          }
         }
       ]
     },
@@ -271,21 +898,78 @@
       "tagline": "La ciudad despierta",
       "icon": "business",
       "tint": "#F4A261",
+      "i18n": {
+        "en": {
+          "name": "City at Dawn",
+          "tagline": "The city wakes up"
+        },
+        "pt": {
+          "name": "Cidade ao Amanhecer",
+          "tagline": "A cidade desperta"
+        },
+        "fr": {
+          "name": "Ville à l’aube",
+          "tagline": "La ville s’éveille"
+        },
+        "de": {
+          "name": "Stadt im Morgengrauen",
+          "tagline": "Die Stadt erwacht"
+        },
+        "zh": {
+          "name": "黎明之城",
+          "tagline": "城市苏醒"
+        },
+        "ko": {
+          "name": "새벽의 도시",
+          "tagline": "깨어나는 도시"
+        },
+        "ja": {
+          "name": "夜明けの街",
+          "tagline": "目覚める街"
+        }
+      },
       "art": [
         {
           "id": "ciudad-del-amanecer-01-primer-tranvia",
           "title": "Primer tranvía",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-del-amanecer/01-primer-tranvia.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-del-amanecer/01-primer-tranvia.jpg",
+          "titles": {
+            "en": "First tram",
+            "pt": "Primeiro bonde",
+            "fr": "Premier tramway",
+            "de": "Erste Straßenbahn",
+            "zh": "第一班电车",
+            "ko": "첫 전차",
+            "ja": "始発の路面電車"
+          }
         },
         {
           "id": "ciudad-del-amanecer-02-ventanas",
           "title": "Ventanas",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-del-amanecer/02-ventanas.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-del-amanecer/02-ventanas.jpg",
+          "titles": {
+            "en": "Windows",
+            "pt": "Janelas",
+            "fr": "Fenêtres",
+            "de": "Fenster",
+            "zh": "窗户",
+            "ko": "창문",
+            "ja": "窓"
+          }
         },
         {
           "id": "ciudad-del-amanecer-03-puente",
           "title": "Puente",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-del-amanecer/03-puente.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-del-amanecer/03-puente.jpg",
+          "titles": {
+            "en": "Bridge",
+            "pt": "Ponte",
+            "fr": "Pont",
+            "de": "Brücke",
+            "zh": "桥",
+            "ko": "다리",
+            "ja": "橋"
+          }
         }
       ]
     },
@@ -295,21 +979,78 @@
       "tagline": "Luces que nunca duermen",
       "icon": "business",
       "tint": "#FFD166",
+      "i18n": {
+        "en": {
+          "name": "City at Night",
+          "tagline": "Lights that never sleep"
+        },
+        "pt": {
+          "name": "Cidade Noturna",
+          "tagline": "Luzes que nunca dormem"
+        },
+        "fr": {
+          "name": "Ville de nuit",
+          "tagline": "Des lumières qui ne dorment jamais"
+        },
+        "de": {
+          "name": "Stadt bei Nacht",
+          "tagline": "Lichter, die nie schlafen"
+        },
+        "zh": {
+          "name": "夜色之城",
+          "tagline": "永不入眠的灯火"
+        },
+        "ko": {
+          "name": "밤의 도시",
+          "tagline": "잠들지 않는 불빛"
+        },
+        "ja": {
+          "name": "夜の街",
+          "tagline": "眠らない光"
+        }
+      },
       "art": [
         {
           "id": "ciudad-nocturna-01-avenida",
           "title": "Avenida",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-nocturna/01-avenida.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-nocturna/01-avenida.jpg",
+          "titles": {
+            "en": "Avenue",
+            "pt": "Avenida",
+            "fr": "Avenue",
+            "de": "Allee",
+            "zh": "大道",
+            "ko": "대로",
+            "ja": "大通り"
+          }
         },
         {
           "id": "ciudad-nocturna-02-rascacielos",
           "title": "Rascacielos",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-nocturna/02-rascacielos.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-nocturna/02-rascacielos.jpg",
+          "titles": {
+            "en": "Skyscrapers",
+            "pt": "Arranha-céus",
+            "fr": "Gratte-ciel",
+            "de": "Wolkenkratzer",
+            "zh": "摩天大楼",
+            "ko": "마천루",
+            "ja": "摩天楼"
+          }
         },
         {
           "id": "ciudad-nocturna-03-barrio-alto",
           "title": "Barrio alto",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-nocturna/03-barrio-alto.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/ciudad-nocturna/03-barrio-alto.jpg",
+          "titles": {
+            "en": "Uptown",
+            "pt": "Bairro alto",
+            "fr": "Quartier haut",
+            "de": "Oberstadt",
+            "zh": "高地街区",
+            "ko": "언덕 위 마을",
+            "ja": "山の手"
+          }
         }
       ]
     },
@@ -319,21 +1060,78 @@
       "tagline": "Mar frío y montañas",
       "icon": "snow",
       "tint": "#7FB2E5",
+      "i18n": {
+        "en": {
+          "name": "Snowy Coast",
+          "tagline": "Cold sea and mountains"
+        },
+        "pt": {
+          "name": "Costa Nevada",
+          "tagline": "Mar frio e montanhas"
+        },
+        "fr": {
+          "name": "Côte enneigée",
+          "tagline": "Mer froide et montagnes"
+        },
+        "de": {
+          "name": "Verschneite Küste",
+          "tagline": "Kaltes Meer und Berge"
+        },
+        "zh": {
+          "name": "雪色海岸",
+          "tagline": "寒冷的海与群山"
+        },
+        "ko": {
+          "name": "눈 덮인 해안",
+          "tagline": "차가운 바다와 산"
+        },
+        "ja": {
+          "name": "雪の海岸",
+          "tagline": "冷たい海と山"
+        }
+      },
       "art": [
         {
           "id": "costa-nevada-01-fiordo",
           "title": "Fiordo",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-nevada/01-fiordo.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-nevada/01-fiordo.jpg",
+          "titles": {
+            "en": "Fjord",
+            "pt": "Fiorde",
+            "fr": "Fjord",
+            "de": "Fjord",
+            "zh": "峡湾",
+            "ko": "피오르",
+            "ja": "フィヨルド"
+          }
         },
         {
           "id": "costa-nevada-02-bahia-helada",
           "title": "Bahía helada",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-nevada/02-bahia-helada.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-nevada/02-bahia-helada.jpg",
+          "titles": {
+            "en": "Frozen bay",
+            "pt": "Baía gelada",
+            "fr": "Baie gelée",
+            "de": "Vereiste Bucht",
+            "zh": "冰封海湾",
+            "ko": "얼어붙은 만",
+            "ja": "凍った湾"
+          }
         },
         {
           "id": "costa-nevada-03-faro-del-norte",
           "title": "Faro del norte",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-nevada/03-faro-del-norte.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-nevada/03-faro-del-norte.jpg",
+          "titles": {
+            "en": "Northern lighthouse",
+            "pt": "Farol do norte",
+            "fr": "Phare du Nord",
+            "de": "Leuchtturm im Norden",
+            "zh": "北方灯塔",
+            "ko": "북쪽 등대",
+            "ja": "北の灯台"
+          }
         }
       ]
     },
@@ -343,21 +1141,78 @@
       "tagline": "Agua clara y cielo abierto",
       "icon": "water",
       "tint": "#2BB3C0",
+      "i18n": {
+        "en": {
+          "name": "Turquoise Coast",
+          "tagline": "Clear water and open sky"
+        },
+        "pt": {
+          "name": "Costa Turquesa",
+          "tagline": "Água clara e céu aberto"
+        },
+        "fr": {
+          "name": "Côte turquoise",
+          "tagline": "Eau claire et ciel ouvert"
+        },
+        "de": {
+          "name": "Türkisküste",
+          "tagline": "Klares Wasser und weiter Himmel"
+        },
+        "zh": {
+          "name": "碧绿海岸",
+          "tagline": "清澈海水与开阔天空"
+        },
+        "ko": {
+          "name": "청록빛 해안",
+          "tagline": "맑은 물과 탁 트인 하늘"
+        },
+        "ja": {
+          "name": "ターコイズの海岸",
+          "tagline": "澄んだ水と広い空"
+        }
+      },
       "art": [
         {
           "id": "costa-turquesa-01-mediodia",
           "title": "Mediodía",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-turquesa/01-mediodia.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-turquesa/01-mediodia.jpg",
+          "titles": {
+            "en": "Noon",
+            "pt": "Meio-dia",
+            "fr": "Midi",
+            "de": "Mittag",
+            "zh": "正午",
+            "ko": "한낮",
+            "ja": "正午"
+          }
         },
         {
           "id": "costa-turquesa-02-velas-blancas",
           "title": "Velas blancas",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-turquesa/02-velas-blancas.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-turquesa/02-velas-blancas.jpg",
+          "titles": {
+            "en": "White sails",
+            "pt": "Velas brancas",
+            "fr": "Voiles blanches",
+            "de": "Weiße Segel",
+            "zh": "白帆",
+            "ko": "하얀 돛",
+            "ja": "白い帆"
+          }
         },
         {
           "id": "costa-turquesa-03-horizonte",
           "title": "Horizonte",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-turquesa/03-horizonte.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/costa-turquesa/03-horizonte.jpg",
+          "titles": {
+            "en": "Horizon",
+            "pt": "Horizonte",
+            "fr": "Horizon",
+            "de": "Horizont",
+            "zh": "地平线",
+            "ko": "수평선",
+            "ja": "水平線"
+          }
         }
       ]
     },
@@ -367,21 +1222,78 @@
       "tagline": "Atardecer en Atacama",
       "icon": "flower",
       "tint": "#E58FA6",
+      "i18n": {
+        "en": {
+          "name": "Pink Desert",
+          "tagline": "Sunset in Atacama"
+        },
+        "pt": {
+          "name": "Deserto Rosado",
+          "tagline": "Pôr do sol no Atacama"
+        },
+        "fr": {
+          "name": "Désert rose",
+          "tagline": "Coucher de soleil sur l’Atacama"
+        },
+        "de": {
+          "name": "Rosa Wüste",
+          "tagline": "Sonnenuntergang in der Atacama"
+        },
+        "zh": {
+          "name": "粉色沙漠",
+          "tagline": "阿塔卡马的日落"
+        },
+        "ko": {
+          "name": "분홍 사막",
+          "tagline": "아타카마의 노을"
+        },
+        "ja": {
+          "name": "ピンクの砂漠",
+          "tagline": "アタカマの夕暮れ"
+        }
+      },
       "art": [
         {
           "id": "desierto-rosado-01-valle-de-la-luna",
           "title": "Valle de la Luna",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/desierto-rosado/01-valle-de-la-luna.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/desierto-rosado/01-valle-de-la-luna.jpg",
+          "titles": {
+            "en": "Valley of the Moon",
+            "pt": "Vale da Lua",
+            "fr": "Vallée de la Lune",
+            "de": "Mondtal",
+            "zh": "月亮谷",
+            "ko": "달의 계곡",
+            "ja": "月の谷"
+          }
         },
         {
           "id": "desierto-rosado-02-cactus-al-ocaso",
           "title": "Cactus al ocaso",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/desierto-rosado/02-cactus-al-ocaso.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/desierto-rosado/02-cactus-al-ocaso.jpg",
+          "titles": {
+            "en": "Cactus at dusk",
+            "pt": "Cacto ao entardecer",
+            "fr": "Cactus au crépuscule",
+            "de": "Kaktus in der Dämmerung",
+            "zh": "黄昏仙人掌",
+            "ko": "해 질 녘 선인장",
+            "ja": "夕暮れのサボテン"
+          }
         },
         {
           "id": "desierto-rosado-03-arena-rosa",
           "title": "Arena rosa",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/desierto-rosado/03-arena-rosa.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/desierto-rosado/03-arena-rosa.jpg",
+          "titles": {
+            "en": "Pink sand",
+            "pt": "Areia rosa",
+            "fr": "Sable rose",
+            "de": "Rosa Sand",
+            "zh": "粉色沙丘",
+            "ko": "분홍 모래",
+            "ja": "ピンクの砂"
+          }
         }
       ]
     },
@@ -391,21 +1303,78 @@
       "tagline": "Arena y sol infinito",
       "icon": "sunny",
       "tint": "#E3A04F",
+      "i18n": {
+        "en": {
+          "name": "Sahara Dunes",
+          "tagline": "Endless sand and sun"
+        },
+        "pt": {
+          "name": "Dunas do Saara",
+          "tagline": "Areia e sol sem fim"
+        },
+        "fr": {
+          "name": "Dunes du Sahara",
+          "tagline": "Sable et soleil à l’infini"
+        },
+        "de": {
+          "name": "Sahara-Dünen",
+          "tagline": "Endloser Sand und Sonne"
+        },
+        "zh": {
+          "name": "撒哈拉沙丘",
+          "tagline": "无尽的黄沙与烈日"
+        },
+        "ko": {
+          "name": "사하라 사구",
+          "tagline": "끝없는 모래와 태양"
+        },
+        "ja": {
+          "name": "サハラの砂丘",
+          "tagline": "果てしない砂と太陽"
+        }
+      },
       "art": [
         {
           "id": "dunas-del-sahara-01-oasis",
           "title": "Oasis",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/dunas-del-sahara/01-oasis.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/dunas-del-sahara/01-oasis.jpg",
+          "titles": {
+            "en": "Oasis",
+            "pt": "Oásis",
+            "fr": "Oasis",
+            "de": "Oase",
+            "zh": "绿洲",
+            "ko": "오아시스",
+            "ja": "オアシス"
+          }
         },
         {
           "id": "dunas-del-sahara-02-caravana",
           "title": "Caravana",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/dunas-del-sahara/02-caravana.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/dunas-del-sahara/02-caravana.jpg",
+          "titles": {
+            "en": "Caravan",
+            "pt": "Caravana",
+            "fr": "Caravane",
+            "de": "Karawane",
+            "zh": "驼队",
+            "ko": "대상 행렬",
+            "ja": "キャラバン"
+          }
         },
         {
           "id": "dunas-del-sahara-03-calor-del-mediodia",
           "title": "Calor del mediodía",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/dunas-del-sahara/03-calor-del-mediodia.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/dunas-del-sahara/03-calor-del-mediodia.jpg",
+          "titles": {
+            "en": "Midday heat",
+            "pt": "Calor do meio-dia",
+            "fr": "Chaleur de midi",
+            "de": "Mittagshitze",
+            "zh": "正午的炎热",
+            "ko": "한낮의 열기",
+            "ja": "真昼の暑さ"
+          }
         }
       ]
     },
@@ -415,21 +1384,78 @@
       "tagline": "Vida bajo el agua",
       "icon": "fish",
       "tint": "#1E96C8",
+      "i18n": {
+        "en": {
+          "name": "Seabed",
+          "tagline": "Life under water"
+        },
+        "pt": {
+          "name": "Fundo do Mar",
+          "tagline": "Vida debaixo d’água"
+        },
+        "fr": {
+          "name": "Fonds marins",
+          "tagline": "La vie sous l’eau"
+        },
+        "de": {
+          "name": "Meeresgrund",
+          "tagline": "Leben unter Wasser"
+        },
+        "zh": {
+          "name": "海底世界",
+          "tagline": "水下的生命"
+        },
+        "ko": {
+          "name": "바닷속",
+          "tagline": "물속의 생명"
+        },
+        "ja": {
+          "name": "海の底",
+          "tagline": "水の中の命"
+        }
+      },
       "art": [
         {
           "id": "fondo-marino-01-cardumen",
           "title": "Cardumen",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fondo-marino/01-cardumen.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fondo-marino/01-cardumen.jpg",
+          "titles": {
+            "en": "School of fish",
+            "pt": "Cardume",
+            "fr": "Banc de poissons",
+            "de": "Fischschwarm",
+            "zh": "鱼群",
+            "ko": "물고기 떼",
+            "ja": "魚の群れ"
+          }
         },
         {
           "id": "fondo-marino-02-rayos-de-luz",
           "title": "Rayos de luz",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fondo-marino/02-rayos-de-luz.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fondo-marino/02-rayos-de-luz.jpg",
+          "titles": {
+            "en": "Rays of light",
+            "pt": "Raios de luz",
+            "fr": "Rayons de lumière",
+            "de": "Lichtstrahlen",
+            "zh": "光束",
+            "ko": "빛줄기",
+            "ja": "光の筋"
+          }
         },
         {
           "id": "fondo-marino-03-jardin-de-algas",
           "title": "Jardín de algas",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fondo-marino/03-jardin-de-algas.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fondo-marino/03-jardin-de-algas.jpg",
+          "titles": {
+            "en": "Kelp garden",
+            "pt": "Jardim de algas",
+            "fr": "Jardin d’algues",
+            "de": "Algengarten",
+            "zh": "海藻花园",
+            "ko": "해초 정원",
+            "ja": "海藻の庭"
+          }
         }
       ]
     },
@@ -439,21 +1465,78 @@
       "tagline": "Luna sobre el volcán",
       "icon": "moon",
       "tint": "#5E60CE",
+      "i18n": {
+        "en": {
+          "name": "Fuji at Night",
+          "tagline": "Moon over the volcano"
+        },
+        "pt": {
+          "name": "Fuji Noturno",
+          "tagline": "Lua sobre o vulcão"
+        },
+        "fr": {
+          "name": "Fuji de nuit",
+          "tagline": "La lune sur le volcan"
+        },
+        "de": {
+          "name": "Fuji bei Nacht",
+          "tagline": "Mond über dem Vulkan"
+        },
+        "zh": {
+          "name": "夜之富士",
+          "tagline": "火山上的月亮"
+        },
+        "ko": {
+          "name": "밤의 후지산",
+          "tagline": "화산 위의 달"
+        },
+        "ja": {
+          "name": "夜の富士",
+          "tagline": "火山の上の月"
+        }
+      },
       "art": [
         {
           "id": "fuji-nocturno-01-luna-de-otono",
           "title": "Luna de otoño",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fuji-nocturno/01-luna-de-otono.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fuji-nocturno/01-luna-de-otono.jpg",
+          "titles": {
+            "en": "Autumn moon",
+            "pt": "Lua de outono",
+            "fr": "Lune d’automne",
+            "de": "Herbstmond",
+            "zh": "秋月",
+            "ko": "가을 달",
+            "ja": "秋の月"
+          }
         },
         {
           "id": "fuji-nocturno-02-olas-de-noche",
           "title": "Olas de noche",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fuji-nocturno/02-olas-de-noche.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fuji-nocturno/02-olas-de-noche.jpg",
+          "titles": {
+            "en": "Night waves",
+            "pt": "Ondas da noite",
+            "fr": "Vagues de nuit",
+            "de": "Nachtwellen",
+            "zh": "夜浪",
+            "ko": "밤의 파도",
+            "ja": "夜の波"
+          }
         },
         {
           "id": "fuji-nocturno-03-petalos-al-viento",
           "title": "Pétalos al viento",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fuji-nocturno/03-petalos-al-viento.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/fuji-nocturno/03-petalos-al-viento.jpg",
+          "titles": {
+            "en": "Petals in the wind",
+            "pt": "Pétalas ao vento",
+            "fr": "Pétales au vent",
+            "de": "Blüten im Wind",
+            "zh": "风中花瓣",
+            "ko": "바람에 날리는 꽃잎",
+            "ja": "風に舞う花びら"
+          }
         }
       ]
     },
@@ -463,21 +1546,78 @@
       "tagline": "Viaje entre estrellas",
       "icon": "planet",
       "tint": "#7B61FF",
+      "i18n": {
+        "en": {
+          "name": "Galaxies",
+          "tagline": "A trip among the stars"
+        },
+        "pt": {
+          "name": "Galáxias",
+          "tagline": "Viagem entre estrelas"
+        },
+        "fr": {
+          "name": "Galaxies",
+          "tagline": "Voyage parmi les étoiles"
+        },
+        "de": {
+          "name": "Galaxien",
+          "tagline": "Reise zwischen den Sternen"
+        },
+        "zh": {
+          "name": "星系",
+          "tagline": "星际之旅"
+        },
+        "ko": {
+          "name": "은하",
+          "tagline": "별들 사이의 여행"
+        },
+        "ja": {
+          "name": "銀河",
+          "tagline": "星々をめぐる旅"
+        }
+      },
       "art": [
         {
           "id": "galaxias-01-planeta-anillado",
           "title": "Planeta anillado",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/galaxias/01-planeta-anillado.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/galaxias/01-planeta-anillado.jpg",
+          "titles": {
+            "en": "Ringed planet",
+            "pt": "Planeta com anéis",
+            "fr": "Planète à anneaux",
+            "de": "Ringplanet",
+            "zh": "环形行星",
+            "ko": "고리 행성",
+            "ja": "環のある惑星"
+          }
         },
         {
           "id": "galaxias-02-lunas-gemelas",
           "title": "Lunas gemelas",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/galaxias/02-lunas-gemelas.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/galaxias/02-lunas-gemelas.jpg",
+          "titles": {
+            "en": "Twin moons",
+            "pt": "Luas gêmeas",
+            "fr": "Lunes jumelles",
+            "de": "Zwillingsmonde",
+            "zh": "双子月",
+            "ko": "쌍둥이 달",
+            "ja": "双子の月"
+          }
         },
         {
           "id": "galaxias-03-mas-alla",
           "title": "Más allá",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/galaxias/03-mas-alla.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/galaxias/03-mas-alla.jpg",
+          "titles": {
+            "en": "Beyond",
+            "pt": "Mais além",
+            "fr": "Au-delà",
+            "de": "Jenseits",
+            "zh": "更远之处",
+            "ko": "저 너머",
+            "ja": "その先へ"
+          }
         }
       ]
     },
@@ -487,21 +1627,78 @@
       "tagline": "Volando sobre las nubes",
       "icon": "balloon",
       "tint": "#F4A259",
+      "i18n": {
+        "en": {
+          "name": "Hot Air Balloons",
+          "tagline": "Flying above the clouds"
+        },
+        "pt": {
+          "name": "Balões de Ar Quente",
+          "tagline": "Voando sobre as nuvens"
+        },
+        "fr": {
+          "name": "Montgolfières",
+          "tagline": "Voler au-dessus des nuages"
+        },
+        "de": {
+          "name": "Heißluftballons",
+          "tagline": "Über den Wolken fliegen"
+        },
+        "zh": {
+          "name": "热气球",
+          "tagline": "飞越云端"
+        },
+        "ko": {
+          "name": "열기구",
+          "tagline": "구름 위를 날아"
+        },
+        "ja": {
+          "name": "熱気球",
+          "tagline": "雲の上を飛んで"
+        }
+      },
       "art": [
         {
           "id": "globos-aerostaticos-01-despegue",
           "title": "Despegue",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-aerostaticos/01-despegue.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-aerostaticos/01-despegue.jpg",
+          "titles": {
+            "en": "Takeoff",
+            "pt": "Decolagem",
+            "fr": "Décollage",
+            "de": "Abheben",
+            "zh": "起飞",
+            "ko": "이륙",
+            "ja": "離陸"
+          }
         },
         {
           "id": "globos-aerostaticos-02-festival",
           "title": "Festival",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-aerostaticos/02-festival.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-aerostaticos/02-festival.jpg",
+          "titles": {
+            "en": "Festival",
+            "pt": "Festival",
+            "fr": "Festival",
+            "de": "Festival",
+            "zh": "热气球节",
+            "ko": "축제",
+            "ja": "フェスティバル"
+          }
         },
         {
           "id": "globos-aerostaticos-03-sobre-el-valle",
           "title": "Sobre el valle",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-aerostaticos/03-sobre-el-valle.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-aerostaticos/03-sobre-el-valle.jpg",
+          "titles": {
+            "en": "Over the valley",
+            "pt": "Sobre o vale",
+            "fr": "Au-dessus de la vallée",
+            "de": "Über dem Tal",
+            "zh": "山谷之上",
+            "ko": "계곡 위로",
+            "ja": "谷の上空"
+          }
         }
       ]
     },
@@ -511,21 +1708,78 @@
       "tagline": "Colores en el cielo",
       "icon": "balloon",
       "tint": "#E76F51",
+      "i18n": {
+        "en": {
+          "name": "Balloons at Sunset",
+          "tagline": "Colors in the sky"
+        },
+        "pt": {
+          "name": "Balões ao Entardecer",
+          "tagline": "Cores no céu"
+        },
+        "fr": {
+          "name": "Montgolfières au couchant",
+          "tagline": "Des couleurs dans le ciel"
+        },
+        "de": {
+          "name": "Ballons im Abendrot",
+          "tagline": "Farben am Himmel"
+        },
+        "zh": {
+          "name": "夕阳热气球",
+          "tagline": "天空中的色彩"
+        },
+        "ko": {
+          "name": "노을 속 열기구",
+          "tagline": "하늘을 물들인 색"
+        },
+        "ja": {
+          "name": "夕暮れの気球",
+          "tagline": "空に広がる色"
+        }
+      },
       "art": [
         {
           "id": "globos-al-atardecer-01-hora-dorada",
           "title": "Hora dorada",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-al-atardecer/01-hora-dorada.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-al-atardecer/01-hora-dorada.jpg",
+          "titles": {
+            "en": "Golden hour",
+            "pt": "Hora dourada",
+            "fr": "Heure dorée",
+            "de": "Goldene Stunde",
+            "zh": "黄金时刻",
+            "ko": "골든 아워",
+            "ja": "ゴールデンアワー"
+          }
         },
         {
           "id": "globos-al-atardecer-02-viaje-lento",
           "title": "Viaje lento",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-al-atardecer/02-viaje-lento.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-al-atardecer/02-viaje-lento.jpg",
+          "titles": {
+            "en": "Slow journey",
+            "pt": "Viagem lenta",
+            "fr": "Voyage lent",
+            "de": "Langsame Reise",
+            "zh": "慢慢旅行",
+            "ko": "느린 여행",
+            "ja": "ゆっくりの旅"
+          }
         },
         {
           "id": "globos-al-atardecer-03-cielo-naranja",
           "title": "Cielo naranja",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-al-atardecer/03-cielo-naranja.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/globos-al-atardecer/03-cielo-naranja.jpg",
+          "titles": {
+            "en": "Orange sky",
+            "pt": "Céu laranja",
+            "fr": "Ciel orange",
+            "de": "Orangefarbener Himmel",
+            "zh": "橙色天空",
+            "ko": "주황빛 하늘",
+            "ja": "オレンジの空"
+          }
         }
       ]
     },
@@ -535,21 +1789,78 @@
       "tagline": "Aroma violeta",
       "icon": "flower",
       "tint": "#9D8DF1",
+      "i18n": {
+        "en": {
+          "name": "Lavender Garden",
+          "tagline": "Violet scent"
+        },
+        "pt": {
+          "name": "Jardim de Lavanda",
+          "tagline": "Aroma violeta"
+        },
+        "fr": {
+          "name": "Jardin de lavande",
+          "tagline": "Parfum violet"
+        },
+        "de": {
+          "name": "Lavendelgarten",
+          "tagline": "Violetter Duft"
+        },
+        "zh": {
+          "name": "薰衣草花园",
+          "tagline": "紫色的芬芳"
+        },
+        "ko": {
+          "name": "라벤더 정원",
+          "tagline": "보랏빛 향기"
+        },
+        "ja": {
+          "name": "ラベンダーの庭",
+          "tagline": "紫の香り"
+        }
+      },
       "art": [
         {
           "id": "jardin-de-lavanda-01-provenza",
           "title": "Provenza",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/jardin-de-lavanda/01-provenza.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/jardin-de-lavanda/01-provenza.jpg",
+          "titles": {
+            "en": "Provence",
+            "pt": "Provença",
+            "fr": "Provence",
+            "de": "Provence",
+            "zh": "普罗旺斯",
+            "ko": "프로방스",
+            "ja": "プロヴァンス"
+          }
         },
         {
           "id": "jardin-de-lavanda-02-lavanda-en-flor",
           "title": "Lavanda en flor",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/jardin-de-lavanda/02-lavanda-en-flor.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/jardin-de-lavanda/02-lavanda-en-flor.jpg",
+          "titles": {
+            "en": "Lavender in bloom",
+            "pt": "Lavanda em flor",
+            "fr": "Lavande en fleur",
+            "de": "Blühender Lavendel",
+            "zh": "盛开的薰衣草",
+            "ko": "꽃핀 라벤더",
+            "ja": "咲き誇るラベンダー"
+          }
         },
         {
           "id": "jardin-de-lavanda-03-tarde-violeta",
           "title": "Tarde violeta",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/jardin-de-lavanda/03-tarde-violeta.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/jardin-de-lavanda/03-tarde-violeta.jpg",
+          "titles": {
+            "en": "Violet afternoon",
+            "pt": "Tarde violeta",
+            "fr": "Après-midi violet",
+            "de": "Violetter Nachmittag",
+            "zh": "紫色午后",
+            "ko": "보랏빛 오후",
+            "ja": "紫の午後"
+          }
         }
       ]
     },
@@ -559,21 +1870,78 @@
       "tagline": "Triángulos de luz",
       "icon": "triangle",
       "tint": "#FF8FA3",
+      "i18n": {
+        "en": {
+          "name": "Low Poly Dawn",
+          "tagline": "Triangles of light"
+        },
+        "pt": {
+          "name": "Amanhecer Low Poly",
+          "tagline": "Triângulos de luz"
+        },
+        "fr": {
+          "name": "Aube low poly",
+          "tagline": "Des triangles de lumière"
+        },
+        "de": {
+          "name": "Low-Poly-Morgen",
+          "tagline": "Dreiecke aus Licht"
+        },
+        "zh": {
+          "name": "低多边形晨曦",
+          "tagline": "光之三角"
+        },
+        "ko": {
+          "name": "로우 폴리 새벽",
+          "tagline": "빛의 삼각형"
+        },
+        "ja": {
+          "name": "ローポリの夜明け",
+          "tagline": "光の三角形"
+        }
+      },
       "art": [
         {
           "id": "low-poly-amanecer-01-facetas",
           "title": "Facetas",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-amanecer/01-facetas.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-amanecer/01-facetas.jpg",
+          "titles": {
+            "en": "Facets",
+            "pt": "Facetas",
+            "fr": "Facettes",
+            "de": "Facetten",
+            "zh": "切面",
+            "ko": "단면",
+            "ja": "ファセット"
+          }
         },
         {
           "id": "low-poly-amanecer-02-cristal",
           "title": "Cristal",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-amanecer/02-cristal.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-amanecer/02-cristal.jpg",
+          "titles": {
+            "en": "Crystal",
+            "pt": "Cristal",
+            "fr": "Cristal",
+            "de": "Kristall",
+            "zh": "水晶",
+            "ko": "크리스털",
+            "ja": "クリスタル"
+          }
         },
         {
           "id": "low-poly-amanecer-03-prisma",
           "title": "Prisma",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-amanecer/03-prisma.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-amanecer/03-prisma.jpg",
+          "titles": {
+            "en": "Prism",
+            "pt": "Prisma",
+            "fr": "Prisme",
+            "de": "Prisma",
+            "zh": "棱镜",
+            "ko": "프리즘",
+            "ja": "プリズム"
+          }
         }
       ]
     },
@@ -583,21 +1951,78 @@
       "tagline": "Verde geométrico",
       "icon": "triangle",
       "tint": "#52B788",
+      "i18n": {
+        "en": {
+          "name": "Low Poly Forest",
+          "tagline": "Geometric green"
+        },
+        "pt": {
+          "name": "Floresta Low Poly",
+          "tagline": "Verde geométrico"
+        },
+        "fr": {
+          "name": "Forêt low poly",
+          "tagline": "Un vert géométrique"
+        },
+        "de": {
+          "name": "Low-Poly-Wald",
+          "tagline": "Geometrisches Grün"
+        },
+        "zh": {
+          "name": "低多边形森林",
+          "tagline": "几何之绿"
+        },
+        "ko": {
+          "name": "로우 폴리 숲",
+          "tagline": "기하학적인 초록"
+        },
+        "ja": {
+          "name": "ローポリの森",
+          "tagline": "幾何学の緑"
+        }
+      },
       "art": [
         {
           "id": "low-poly-bosque-01-copas",
           "title": "Copas",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-bosque/01-copas.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-bosque/01-copas.jpg",
+          "titles": {
+            "en": "Treetops",
+            "pt": "Copas",
+            "fr": "Cimes",
+            "de": "Baumkronen",
+            "zh": "树冠",
+            "ko": "나무 꼭대기",
+            "ja": "こずえ"
+          }
         },
         {
           "id": "low-poly-bosque-02-sotobosque",
           "title": "Sotobosque",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-bosque/02-sotobosque.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-bosque/02-sotobosque.jpg",
+          "titles": {
+            "en": "Undergrowth",
+            "pt": "Sub-bosque",
+            "fr": "Sous-bois",
+            "de": "Unterholz",
+            "zh": "灌木丛",
+            "ko": "덤불",
+            "ja": "下草"
+          }
         },
         {
           "id": "low-poly-bosque-03-musgo",
           "title": "Musgo",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-bosque/03-musgo.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-bosque/03-musgo.jpg",
+          "titles": {
+            "en": "Moss",
+            "pt": "Musgo",
+            "fr": "Mousse",
+            "de": "Moos",
+            "zh": "苔藓",
+            "ko": "이끼",
+            "ja": "コケ"
+          }
         }
       ]
     },
@@ -607,21 +2032,78 @@
       "tagline": "Profundidad facetada",
       "icon": "triangle",
       "tint": "#00B4D8",
+      "i18n": {
+        "en": {
+          "name": "Low Poly Ocean",
+          "tagline": "Faceted depths"
+        },
+        "pt": {
+          "name": "Oceano Low Poly",
+          "tagline": "Profundidade facetada"
+        },
+        "fr": {
+          "name": "Océan low poly",
+          "tagline": "Des profondeurs à facettes"
+        },
+        "de": {
+          "name": "Low-Poly-Ozean",
+          "tagline": "Facettierte Tiefe"
+        },
+        "zh": {
+          "name": "低多边形海洋",
+          "tagline": "多面的深海"
+        },
+        "ko": {
+          "name": "로우 폴리 바다",
+          "tagline": "각진 깊은 바다"
+        },
+        "ja": {
+          "name": "ローポリの海",
+          "tagline": "多面体の深み"
+        }
+      },
       "art": [
         {
           "id": "low-poly-oceano-01-abismo",
           "title": "Abismo",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-oceano/01-abismo.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-oceano/01-abismo.jpg",
+          "titles": {
+            "en": "Abyss",
+            "pt": "Abismo",
+            "fr": "Abysse",
+            "de": "Abgrund",
+            "zh": "深渊",
+            "ko": "심연",
+            "ja": "深淵"
+          }
         },
         {
           "id": "low-poly-oceano-02-corriente",
           "title": "Corriente",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-oceano/02-corriente.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-oceano/02-corriente.jpg",
+          "titles": {
+            "en": "Current",
+            "pt": "Corrente",
+            "fr": "Courant",
+            "de": "Strömung",
+            "zh": "洋流",
+            "ko": "해류",
+            "ja": "海流"
+          }
         },
         {
           "id": "low-poly-oceano-03-marea",
           "title": "Marea",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-oceano/03-marea.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/low-poly-oceano/03-marea.jpg",
+          "titles": {
+            "en": "Tide",
+            "pt": "Maré",
+            "fr": "Marée",
+            "de": "Gezeiten",
+            "zh": "潮汐",
+            "ko": "조수",
+            "ja": "潮"
+          }
         }
       ]
     },
@@ -631,21 +2113,78 @@
       "tagline": "Simetría que relaja",
       "icon": "flower",
       "tint": "#9D4EDD",
+      "i18n": {
+        "en": {
+          "name": "Mandalas",
+          "tagline": "Relaxing symmetry"
+        },
+        "pt": {
+          "name": "Mandalas",
+          "tagline": "Simetria que relaxa"
+        },
+        "fr": {
+          "name": "Mandalas",
+          "tagline": "Une symétrie apaisante"
+        },
+        "de": {
+          "name": "Mandalas",
+          "tagline": "Entspannende Symmetrie"
+        },
+        "zh": {
+          "name": "曼陀罗",
+          "tagline": "令人放松的对称"
+        },
+        "ko": {
+          "name": "만다라",
+          "tagline": "마음을 쉬게 하는 대칭"
+        },
+        "ja": {
+          "name": "マンダラ",
+          "tagline": "心落ち着く対称"
+        }
+      },
       "art": [
         {
           "id": "mandalas-01-equilibrio",
           "title": "Equilibrio",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas/01-equilibrio.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas/01-equilibrio.jpg",
+          "titles": {
+            "en": "Balance",
+            "pt": "Equilíbrio",
+            "fr": "Équilibre",
+            "de": "Gleichgewicht",
+            "zh": "平衡",
+            "ko": "균형",
+            "ja": "バランス"
+          }
         },
         {
           "id": "mandalas-02-calma",
           "title": "Calma",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas/02-calma.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas/02-calma.jpg",
+          "titles": {
+            "en": "Calm",
+            "pt": "Calma",
+            "fr": "Calme",
+            "de": "Ruhe",
+            "zh": "平静",
+            "ko": "평온",
+            "ja": "静けさ"
+          }
         },
         {
           "id": "mandalas-03-centro",
           "title": "Centro",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas/03-centro.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas/03-centro.jpg",
+          "titles": {
+            "en": "Center",
+            "pt": "Centro",
+            "fr": "Centre",
+            "de": "Mitte",
+            "zh": "中心",
+            "ko": "중심",
+            "ja": "中心"
+          }
         }
       ]
     },
@@ -655,21 +2194,78 @@
       "tagline": "Calidez radiante",
       "icon": "sunny",
       "tint": "#F77F00",
+      "i18n": {
+        "en": {
+          "name": "Sun Mandalas",
+          "tagline": "Radiant warmth"
+        },
+        "pt": {
+          "name": "Mandalas de Sol",
+          "tagline": "Calor radiante"
+        },
+        "fr": {
+          "name": "Mandalas solaires",
+          "tagline": "Une chaleur rayonnante"
+        },
+        "de": {
+          "name": "Sonnenmandalas",
+          "tagline": "Strahlende Wärme"
+        },
+        "zh": {
+          "name": "太阳曼陀罗",
+          "tagline": "灿烂的温暖"
+        },
+        "ko": {
+          "name": "태양 만다라",
+          "tagline": "눈부신 따스함"
+        },
+        "ja": {
+          "name": "太陽のマンダラ",
+          "tagline": "輝くぬくもり"
+        }
+      },
       "art": [
         {
           "id": "mandalas-de-sol-01-solsticio",
           "title": "Solsticio",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-de-sol/01-solsticio.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-de-sol/01-solsticio.jpg",
+          "titles": {
+            "en": "Solstice",
+            "pt": "Solstício",
+            "fr": "Solstice",
+            "de": "Sonnenwende",
+            "zh": "至日",
+            "ko": "지점",
+            "ja": "至点"
+          }
         },
         {
           "id": "mandalas-de-sol-02-corona",
           "title": "Corona",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-de-sol/02-corona.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-de-sol/02-corona.jpg",
+          "titles": {
+            "en": "Crown",
+            "pt": "Coroa",
+            "fr": "Couronne",
+            "de": "Krone",
+            "zh": "日冕",
+            "ko": "왕관",
+            "ja": "光冠"
+          }
         },
         {
           "id": "mandalas-de-sol-03-girasol",
           "title": "Girasol",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-de-sol/03-girasol.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-de-sol/03-girasol.jpg",
+          "titles": {
+            "en": "Sunflower",
+            "pt": "Girassol",
+            "fr": "Tournesol",
+            "de": "Sonnenblume",
+            "zh": "向日葵",
+            "ko": "해바라기",
+            "ja": "ひまわり"
+          }
         }
       ]
     },
@@ -679,21 +2275,78 @@
       "tagline": "Olas en círculo",
       "icon": "water",
       "tint": "#00B4D8",
+      "i18n": {
+        "en": {
+          "name": "Sea Mandalas",
+          "tagline": "Waves in a circle"
+        },
+        "pt": {
+          "name": "Mandalas do Mar",
+          "tagline": "Ondas em círculo"
+        },
+        "fr": {
+          "name": "Mandalas marins",
+          "tagline": "Des vagues en cercle"
+        },
+        "de": {
+          "name": "Meeresmandalas",
+          "tagline": "Wellen im Kreis"
+        },
+        "zh": {
+          "name": "海洋曼陀罗",
+          "tagline": "环形的浪花"
+        },
+        "ko": {
+          "name": "바다 만다라",
+          "tagline": "원을 그리는 파도"
+        },
+        "ja": {
+          "name": "海のマンダラ",
+          "tagline": "円を描く波"
+        }
+      },
       "art": [
         {
           "id": "mandalas-del-mar-01-marea",
           "title": "Marea",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-del-mar/01-marea.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-del-mar/01-marea.jpg",
+          "titles": {
+            "en": "Tide",
+            "pt": "Maré",
+            "fr": "Marée",
+            "de": "Gezeiten",
+            "zh": "潮汐",
+            "ko": "조수",
+            "ja": "潮"
+          }
         },
         {
           "id": "mandalas-del-mar-02-concha",
           "title": "Concha",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-del-mar/02-concha.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-del-mar/02-concha.jpg",
+          "titles": {
+            "en": "Seashell",
+            "pt": "Concha",
+            "fr": "Coquillage",
+            "de": "Muschel",
+            "zh": "贝壳",
+            "ko": "조개껍데기",
+            "ja": "貝殻"
+          }
         },
         {
           "id": "mandalas-del-mar-03-espuma",
           "title": "Espuma",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-del-mar/03-espuma.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mandalas-del-mar/03-espuma.jpg",
+          "titles": {
+            "en": "Sea foam",
+            "pt": "Espuma",
+            "fr": "Écume",
+            "de": "Gischt",
+            "zh": "浪花",
+            "ko": "물거품",
+            "ja": "波の泡"
+          }
         }
       ]
     },
@@ -703,21 +2356,78 @@
       "tagline": "El sol se hunde en el agua",
       "icon": "boat",
       "tint": "#F2A65A",
+      "i18n": {
+        "en": {
+          "name": "Golden Sea",
+          "tagline": "The sun sinks into the water"
+        },
+        "pt": {
+          "name": "Mar Dourado",
+          "tagline": "O sol mergulha na água"
+        },
+        "fr": {
+          "name": "Mer dorée",
+          "tagline": "Le soleil plonge dans l’eau"
+        },
+        "de": {
+          "name": "Goldenes Meer",
+          "tagline": "Die Sonne versinkt im Wasser"
+        },
+        "zh": {
+          "name": "金色海洋",
+          "tagline": "夕阳沉入海中"
+        },
+        "ko": {
+          "name": "황금빛 바다",
+          "tagline": "바다로 지는 해"
+        },
+        "ja": {
+          "name": "黄金の海",
+          "tagline": "海に沈む太陽"
+        }
+      },
       "art": [
         {
           "id": "mar-dorado-01-velero-al-ocaso",
           "title": "Velero al ocaso",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mar-dorado/01-velero-al-ocaso.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mar-dorado/01-velero-al-ocaso.jpg",
+          "titles": {
+            "en": "Sailboat at dusk",
+            "pt": "Veleiro ao entardecer",
+            "fr": "Voilier au crépuscule",
+            "de": "Segelboot im Abendrot",
+            "zh": "黄昏帆船",
+            "ko": "노을 속 돛단배",
+            "ja": "夕暮れのヨット"
+          }
         },
         {
           "id": "mar-dorado-02-reflejos",
           "title": "Reflejos",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mar-dorado/02-reflejos.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mar-dorado/02-reflejos.jpg",
+          "titles": {
+            "en": "Reflections",
+            "pt": "Reflexos",
+            "fr": "Reflets",
+            "de": "Spiegelungen",
+            "zh": "倒影",
+            "ko": "물그림자",
+            "ja": "映り込み"
+          }
         },
         {
           "id": "mar-dorado-03-regreso-a-puerto",
           "title": "Regreso a puerto",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mar-dorado/03-regreso-a-puerto.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mar-dorado/03-regreso-a-puerto.jpg",
+          "titles": {
+            "en": "Back to port",
+            "pt": "Volta ao porto",
+            "fr": "Retour au port",
+            "de": "Zurück in den Hafen",
+            "zh": "归港",
+            "ko": "귀항",
+            "ja": "港へ帰る"
+          }
         }
       ]
     },
@@ -727,21 +2437,78 @@
       "tagline": "Vetas de piedra fina",
       "icon": "diamond",
       "tint": "#B8A99A",
+      "i18n": {
+        "en": {
+          "name": "Marble",
+          "tagline": "Veins of fine stone"
+        },
+        "pt": {
+          "name": "Mármore",
+          "tagline": "Veios de pedra fina"
+        },
+        "fr": {
+          "name": "Marbre",
+          "tagline": "Des veines de pierre fine"
+        },
+        "de": {
+          "name": "Marmor",
+          "tagline": "Adern aus feinem Stein"
+        },
+        "zh": {
+          "name": "大理石",
+          "tagline": "精致石材的纹路"
+        },
+        "ko": {
+          "name": "대리석",
+          "tagline": "고운 돌의 결"
+        },
+        "ja": {
+          "name": "大理石",
+          "tagline": "上質な石の模様"
+        }
+      },
       "art": [
         {
           "id": "marmol-01-veta",
           "title": "Veta",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol/01-veta.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol/01-veta.jpg",
+          "titles": {
+            "en": "Vein",
+            "pt": "Veio",
+            "fr": "Veine",
+            "de": "Ader",
+            "zh": "纹理",
+            "ko": "결",
+            "ja": "石目"
+          }
         },
         {
           "id": "marmol-02-remolino",
           "title": "Remolino",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol/02-remolino.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol/02-remolino.jpg",
+          "titles": {
+            "en": "Swirl",
+            "pt": "Redemoinho",
+            "fr": "Tourbillon",
+            "de": "Wirbel",
+            "zh": "漩涡",
+            "ko": "소용돌이",
+            "ja": "渦"
+          }
         },
         {
           "id": "marmol-03-corriente",
           "title": "Corriente",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol/03-corriente.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol/03-corriente.jpg",
+          "titles": {
+            "en": "Flow",
+            "pt": "Corrente",
+            "fr": "Courant",
+            "de": "Strömung",
+            "zh": "流动",
+            "ko": "흐름",
+            "ja": "流れ"
+          }
         }
       ]
     },
@@ -751,21 +2518,78 @@
       "tagline": "Colores que fluyen",
       "icon": "color-filter",
       "tint": "#F9844A",
+      "i18n": {
+        "en": {
+          "name": "Sunset Marble",
+          "tagline": "Flowing colors"
+        },
+        "pt": {
+          "name": "Mármore Entardecer",
+          "tagline": "Cores que fluem"
+        },
+        "fr": {
+          "name": "Marbre crépuscule",
+          "tagline": "Des couleurs qui coulent"
+        },
+        "de": {
+          "name": "Abendrot-Marmor",
+          "tagline": "Fließende Farben"
+        },
+        "zh": {
+          "name": "落日大理石",
+          "tagline": "流动的色彩"
+        },
+        "ko": {
+          "name": "노을 대리석",
+          "tagline": "흐르는 색"
+        },
+        "ja": {
+          "name": "夕焼けの大理石",
+          "tagline": "流れる色彩"
+        }
+      },
       "art": [
         {
           "id": "marmol-atardecer-01-llama",
           "title": "Llama",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-atardecer/01-llama.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-atardecer/01-llama.jpg",
+          "titles": {
+            "en": "Flame",
+            "pt": "Chama",
+            "fr": "Flamme",
+            "de": "Flamme",
+            "zh": "火焰",
+            "ko": "불꽃",
+            "ja": "炎"
+          }
         },
         {
           "id": "marmol-atardecer-02-durazno",
           "title": "Durazno",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-atardecer/02-durazno.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-atardecer/02-durazno.jpg",
+          "titles": {
+            "en": "Peach",
+            "pt": "Pêssego",
+            "fr": "Pêche",
+            "de": "Pfirsich",
+            "zh": "蜜桃",
+            "ko": "복숭아",
+            "ja": "ピーチ"
+          }
         },
         {
           "id": "marmol-atardecer-03-tormenta",
           "title": "Tormenta",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-atardecer/03-tormenta.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-atardecer/03-tormenta.jpg",
+          "titles": {
+            "en": "Storm",
+            "pt": "Tempestade",
+            "fr": "Tempête",
+            "de": "Sturm",
+            "zh": "风暴",
+            "ko": "폭풍",
+            "ja": "嵐"
+          }
         }
       ]
     },
@@ -775,21 +2599,78 @@
       "tagline": "Olas líquidas",
       "icon": "water",
       "tint": "#2EC4B6",
+      "i18n": {
+        "en": {
+          "name": "Ocean Marble",
+          "tagline": "Liquid waves"
+        },
+        "pt": {
+          "name": "Mármore Oceano",
+          "tagline": "Ondas líquidas"
+        },
+        "fr": {
+          "name": "Marbre océan",
+          "tagline": "Des vagues liquides"
+        },
+        "de": {
+          "name": "Ozean-Marmor",
+          "tagline": "Flüssige Wellen"
+        },
+        "zh": {
+          "name": "海洋大理石",
+          "tagline": "流动的波浪"
+        },
+        "ko": {
+          "name": "바다 대리석",
+          "tagline": "흐르는 파도"
+        },
+        "ja": {
+          "name": "海の大理石",
+          "tagline": "とろける波"
+        }
+      },
       "art": [
         {
           "id": "marmol-oceano-01-ola",
           "title": "Ola",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-oceano/01-ola.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-oceano/01-ola.jpg",
+          "titles": {
+            "en": "Wave",
+            "pt": "Onda",
+            "fr": "Vague",
+            "de": "Welle",
+            "zh": "波浪",
+            "ko": "파도",
+            "ja": "波"
+          }
         },
         {
           "id": "marmol-oceano-02-espuma",
           "title": "Espuma",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-oceano/02-espuma.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-oceano/02-espuma.jpg",
+          "titles": {
+            "en": "Foam",
+            "pt": "Espuma",
+            "fr": "Écume",
+            "de": "Schaum",
+            "zh": "泡沫",
+            "ko": "거품",
+            "ja": "泡"
+          }
         },
         {
           "id": "marmol-oceano-03-arrecife",
           "title": "Arrecife",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-oceano/03-arrecife.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/marmol-oceano/03-arrecife.jpg",
+          "titles": {
+            "en": "Reef",
+            "pt": "Recife",
+            "fr": "Récif",
+            "de": "Riff",
+            "zh": "礁石",
+            "ko": "암초",
+            "ja": "岩礁"
+          }
         }
       ]
     },
@@ -799,21 +2680,78 @@
       "tagline": "Diversión de los 80",
       "icon": "color-palette",
       "tint": "#FF5D8F",
+      "i18n": {
+        "en": {
+          "name": "Memphis",
+          "tagline": "80s fun"
+        },
+        "pt": {
+          "name": "Memphis",
+          "tagline": "Diversão dos anos 80"
+        },
+        "fr": {
+          "name": "Memphis",
+          "tagline": "Le fun des années 80"
+        },
+        "de": {
+          "name": "Memphis",
+          "tagline": "Spaß der 80er"
+        },
+        "zh": {
+          "name": "孟菲斯",
+          "tagline": "80 年代的欢乐"
+        },
+        "ko": {
+          "name": "멤피스",
+          "tagline": "80년대의 즐거움"
+        },
+        "ja": {
+          "name": "メンフィス",
+          "tagline": "80年代の楽しさ"
+        }
+      },
       "art": [
         {
           "id": "memphis-01-confeti",
           "title": "Confeti",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis/01-confeti.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis/01-confeti.jpg",
+          "titles": {
+            "en": "Confetti",
+            "pt": "Confete",
+            "fr": "Confettis",
+            "de": "Konfetti",
+            "zh": "彩纸屑",
+            "ko": "색종이",
+            "ja": "紙吹雪"
+          }
         },
         {
           "id": "memphis-02-garabatos",
           "title": "Garabatos",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis/02-garabatos.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis/02-garabatos.jpg",
+          "titles": {
+            "en": "Squiggles",
+            "pt": "Rabiscos",
+            "fr": "Gribouillis",
+            "de": "Kritzeleien",
+            "zh": "涂鸦",
+            "ko": "낙서",
+            "ja": "らくがき"
+          }
         },
         {
           "id": "memphis-03-fiesta",
           "title": "Fiesta",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis/03-fiesta.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis/03-fiesta.jpg",
+          "titles": {
+            "en": "Party",
+            "pt": "Festa",
+            "fr": "Fête",
+            "de": "Party",
+            "zh": "派对",
+            "ko": "파티",
+            "ja": "パーティー"
+          }
         }
       ]
     },
@@ -823,21 +2761,78 @@
       "tagline": "Fiesta de formas",
       "icon": "color-palette",
       "tint": "#F72585",
+      "i18n": {
+        "en": {
+          "name": "Memphis Night",
+          "tagline": "A party of shapes"
+        },
+        "pt": {
+          "name": "Memphis Noturno",
+          "tagline": "Festa de formas"
+        },
+        "fr": {
+          "name": "Memphis de nuit",
+          "tagline": "Une fête de formes"
+        },
+        "de": {
+          "name": "Memphis bei Nacht",
+          "tagline": "Ein Fest der Formen"
+        },
+        "zh": {
+          "name": "孟菲斯之夜",
+          "tagline": "形状的派对"
+        },
+        "ko": {
+          "name": "멤피스의 밤",
+          "tagline": "도형들의 파티"
+        },
+        "ja": {
+          "name": "メンフィスの夜",
+          "tagline": "かたちのパーティー"
+        }
+      },
       "art": [
         {
           "id": "memphis-noche-01-disco",
           "title": "Disco",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis-noche/01-disco.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis-noche/01-disco.jpg",
+          "titles": {
+            "en": "Disco",
+            "pt": "Discoteca",
+            "fr": "Disco",
+            "de": "Disco",
+            "zh": "迪斯科",
+            "ko": "디스코",
+            "ja": "ディスコ"
+          }
         },
         {
           "id": "memphis-noche-02-neon",
           "title": "Neón",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis-noche/02-neon.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis-noche/02-neon.jpg",
+          "titles": {
+            "en": "Neon",
+            "pt": "Neon",
+            "fr": "Néon",
+            "de": "Neon",
+            "zh": "霓虹",
+            "ko": "네온",
+            "ja": "ネオン"
+          }
         },
         {
           "id": "memphis-noche-03-serpentina",
           "title": "Serpentina",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis-noche/03-serpentina.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/memphis-noche/03-serpentina.jpg",
+          "titles": {
+            "en": "Streamer",
+            "pt": "Serpentina",
+            "fr": "Serpentin",
+            "de": "Luftschlange",
+            "zh": "彩带",
+            "ko": "색 테이프",
+            "ja": "紙テープ"
+          }
         }
       ]
     },
@@ -847,21 +2842,78 @@
       "tagline": "Japón en estampa",
       "icon": "flower",
       "tint": "#E63946",
+      "i18n": {
+        "en": {
+          "name": "Mount Fuji",
+          "tagline": "Japan in prints"
+        },
+        "pt": {
+          "name": "Monte Fuji",
+          "tagline": "O Japão em gravura"
+        },
+        "fr": {
+          "name": "Mont Fuji",
+          "tagline": "Le Japon en estampe"
+        },
+        "de": {
+          "name": "Fuji-san",
+          "tagline": "Japan als Holzschnitt"
+        },
+        "zh": {
+          "name": "富士山",
+          "tagline": "浮世绘里的日本"
+        },
+        "ko": {
+          "name": "후지산",
+          "tagline": "판화 속 일본"
+        },
+        "ja": {
+          "name": "富士山",
+          "tagline": "浮世絵の日本"
+        }
+      },
       "art": [
         {
           "id": "monte-fuji-01-sol-naciente",
           "title": "Sol naciente",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/monte-fuji/01-sol-naciente.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/monte-fuji/01-sol-naciente.jpg",
+          "titles": {
+            "en": "Rising sun",
+            "pt": "Sol nascente",
+            "fr": "Soleil levant",
+            "de": "Aufgehende Sonne",
+            "zh": "旭日",
+            "ko": "떠오르는 해",
+            "ja": "日の出"
+          }
         },
         {
           "id": "monte-fuji-02-gran-ola",
           "title": "Gran ola",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/monte-fuji/02-gran-ola.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/monte-fuji/02-gran-ola.jpg",
+          "titles": {
+            "en": "Great wave",
+            "pt": "Grande onda",
+            "fr": "Grande vague",
+            "de": "Große Welle",
+            "zh": "巨浪",
+            "ko": "큰 파도",
+            "ja": "大波"
+          }
         },
         {
           "id": "monte-fuji-03-sakura",
           "title": "Sakura",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/monte-fuji/03-sakura.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/monte-fuji/03-sakura.jpg",
+          "titles": {
+            "en": "Sakura",
+            "pt": "Sakura",
+            "fr": "Sakura",
+            "de": "Sakura",
+            "zh": "樱花",
+            "ko": "벚꽃",
+            "ja": "桜"
+          }
         }
       ]
     },
@@ -871,21 +2923,78 @@
       "tagline": "Curvas color caramelo",
       "icon": "grid",
       "tint": "#FF8FAB",
+      "i18n": {
+        "en": {
+          "name": "Sweet Mosaic",
+          "tagline": "Caramel-colored curves"
+        },
+        "pt": {
+          "name": "Mosaico Doce",
+          "tagline": "Curvas cor de caramelo"
+        },
+        "fr": {
+          "name": "Mosaïque sucrée",
+          "tagline": "Des courbes couleur caramel"
+        },
+        "de": {
+          "name": "Süßes Mosaik",
+          "tagline": "Karamellfarbene Kurven"
+        },
+        "zh": {
+          "name": "甜蜜马赛克",
+          "tagline": "焦糖色的曲线"
+        },
+        "ko": {
+          "name": "달콤한 모자이크",
+          "tagline": "캐러멜빛 곡선"
+        },
+        "ja": {
+          "name": "スイートモザイク",
+          "tagline": "キャラメル色の曲線"
+        }
+      },
       "art": [
         {
           "id": "mosaico-dulce-01-caramelo",
           "title": "Caramelo",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-dulce/01-caramelo.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-dulce/01-caramelo.jpg",
+          "titles": {
+            "en": "Caramel",
+            "pt": "Caramelo",
+            "fr": "Caramel",
+            "de": "Karamell",
+            "zh": "焦糖",
+            "ko": "캐러멜",
+            "ja": "キャラメル"
+          }
         },
         {
           "id": "mosaico-dulce-02-remolinos",
           "title": "Remolinos",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-dulce/02-remolinos.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-dulce/02-remolinos.jpg",
+          "titles": {
+            "en": "Swirls",
+            "pt": "Redemoinhos",
+            "fr": "Tourbillons",
+            "de": "Wirbel",
+            "zh": "漩涡",
+            "ko": "소용돌이",
+            "ja": "うずまき"
+          }
         },
         {
           "id": "mosaico-dulce-03-cinta",
           "title": "Cinta",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-dulce/03-cinta.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-dulce/03-cinta.jpg",
+          "titles": {
+            "en": "Ribbon",
+            "pt": "Fita",
+            "fr": "Ruban",
+            "de": "Band",
+            "zh": "丝带",
+            "ko": "리본",
+            "ja": "リボン"
+          }
         }
       ]
     },
@@ -895,21 +3004,78 @@
       "tagline": "Laberintos de curvas",
       "icon": "grid",
       "tint": "#2A9D8F",
+      "i18n": {
+        "en": {
+          "name": "Mosaic",
+          "tagline": "Mazes of curves"
+        },
+        "pt": {
+          "name": "Mosaico",
+          "tagline": "Labirintos de curvas"
+        },
+        "fr": {
+          "name": "Mosaïque",
+          "tagline": "Des labyrinthes de courbes"
+        },
+        "de": {
+          "name": "Mosaik",
+          "tagline": "Labyrinthe aus Kurven"
+        },
+        "zh": {
+          "name": "马赛克",
+          "tagline": "曲线迷宫"
+        },
+        "ko": {
+          "name": "모자이크",
+          "tagline": "곡선의 미로"
+        },
+        "ja": {
+          "name": "モザイク",
+          "tagline": "曲線の迷路"
+        }
+      },
       "art": [
         {
           "id": "mosaico-truchet-01-laberinto",
           "title": "Laberinto",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-truchet/01-laberinto.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-truchet/01-laberinto.jpg",
+          "titles": {
+            "en": "Maze",
+            "pt": "Labirinto",
+            "fr": "Labyrinthe",
+            "de": "Labyrinth",
+            "zh": "迷宫",
+            "ko": "미로",
+            "ja": "迷路"
+          }
         },
         {
           "id": "mosaico-truchet-02-ondas",
           "title": "Ondas",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-truchet/02-ondas.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-truchet/02-ondas.jpg",
+          "titles": {
+            "en": "Waves",
+            "pt": "Ondas",
+            "fr": "Ondes",
+            "de": "Wellen",
+            "zh": "波纹",
+            "ko": "물결",
+            "ja": "波紋"
+          }
         },
         {
           "id": "mosaico-truchet-03-trenzado",
           "title": "Trenzado",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-truchet/03-trenzado.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/mosaico-truchet/03-trenzado.jpg",
+          "titles": {
+            "en": "Braid",
+            "pt": "Trança",
+            "fr": "Tresse",
+            "de": "Geflecht",
+            "zh": "编织",
+            "ko": "땋은 무늬",
+            "ja": "三つ編み"
+          }
         }
       ]
     },
@@ -919,21 +3085,78 @@
       "tagline": "Polvo de estrellas",
       "icon": "rocket",
       "tint": "#00BBF9",
+      "i18n": {
+        "en": {
+          "name": "Blue Nebula",
+          "tagline": "Stardust"
+        },
+        "pt": {
+          "name": "Nebulosa Azul",
+          "tagline": "Poeira de estrelas"
+        },
+        "fr": {
+          "name": "Nébuleuse bleue",
+          "tagline": "Poussière d’étoiles"
+        },
+        "de": {
+          "name": "Blauer Nebel",
+          "tagline": "Sternenstaub"
+        },
+        "zh": {
+          "name": "蓝色星云",
+          "tagline": "星尘"
+        },
+        "ko": {
+          "name": "푸른 성운",
+          "tagline": "별가루"
+        },
+        "ja": {
+          "name": "青い星雲",
+          "tagline": "星くず"
+        }
+      },
       "art": [
         {
           "id": "nebulosa-azul-01-orbita",
           "title": "Órbita",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/nebulosa-azul/01-orbita.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/nebulosa-azul/01-orbita.jpg",
+          "titles": {
+            "en": "Orbit",
+            "pt": "Órbita",
+            "fr": "Orbite",
+            "de": "Umlaufbahn",
+            "zh": "轨道",
+            "ko": "궤도",
+            "ja": "軌道"
+          }
         },
         {
           "id": "nebulosa-azul-02-polvo-cosmico",
           "title": "Polvo cósmico",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/nebulosa-azul/02-polvo-cosmico.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/nebulosa-azul/02-polvo-cosmico.jpg",
+          "titles": {
+            "en": "Cosmic dust",
+            "pt": "Poeira cósmica",
+            "fr": "Poussière cosmique",
+            "de": "Kosmischer Staub",
+            "zh": "宇宙尘埃",
+            "ko": "우주 먼지",
+            "ja": "宇宙のちり"
+          }
         },
         {
           "id": "nebulosa-azul-03-estrella-fugaz",
           "title": "Estrella fugaz",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/nebulosa-azul/03-estrella-fugaz.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/nebulosa-azul/03-estrella-fugaz.jpg",
+          "titles": {
+            "en": "Shooting star",
+            "pt": "Estrela cadente",
+            "fr": "Étoile filante",
+            "de": "Sternschnuppe",
+            "zh": "流星",
+            "ko": "별똥별",
+            "ja": "流れ星"
+          }
         }
       ]
     },
@@ -943,21 +3166,78 @@
       "tagline": "Montañas bajo el cielo",
       "icon": "moon",
       "tint": "#3D4FA3",
+      "i18n": {
+        "en": {
+          "name": "Starry Night",
+          "tagline": "Mountains under the sky"
+        },
+        "pt": {
+          "name": "Noite Estrelada",
+          "tagline": "Montanhas sob o céu"
+        },
+        "fr": {
+          "name": "Nuit étoilée",
+          "tagline": "Des montagnes sous le ciel"
+        },
+        "de": {
+          "name": "Sternennacht",
+          "tagline": "Berge unter dem Himmel"
+        },
+        "zh": {
+          "name": "星空之夜",
+          "tagline": "天空下的群山"
+        },
+        "ko": {
+          "name": "별이 빛나는 밤",
+          "tagline": "하늘 아래 산"
+        },
+        "ja": {
+          "name": "星降る夜",
+          "tagline": "空の下の山々"
+        }
+      },
       "art": [
         {
           "id": "noche-estrellada-01-luna-llena",
           "title": "Luna llena",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noche-estrellada/01-luna-llena.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noche-estrellada/01-luna-llena.jpg",
+          "titles": {
+            "en": "Full moon",
+            "pt": "Lua cheia",
+            "fr": "Pleine lune",
+            "de": "Vollmond",
+            "zh": "满月",
+            "ko": "보름달",
+            "ja": "満月"
+          }
         },
         {
           "id": "noche-estrellada-02-silencio-azul",
           "title": "Silencio azul",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noche-estrellada/02-silencio-azul.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noche-estrellada/02-silencio-azul.jpg",
+          "titles": {
+            "en": "Blue silence",
+            "pt": "Silêncio azul",
+            "fr": "Silence bleu",
+            "de": "Blaue Stille",
+            "zh": "蓝色寂静",
+            "ko": "푸른 고요",
+            "ja": "青い静けさ"
+          }
         },
         {
           "id": "noche-estrellada-03-cielo-infinito",
           "title": "Cielo infinito",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noche-estrellada/03-cielo-infinito.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noche-estrellada/03-cielo-infinito.jpg",
+          "titles": {
+            "en": "Endless sky",
+            "pt": "Céu infinito",
+            "fr": "Ciel infini",
+            "de": "Unendlicher Himmel",
+            "zh": "无垠天空",
+            "ko": "끝없는 하늘",
+            "ja": "果てしない空"
+          }
         }
       ]
     },
@@ -967,21 +3247,78 @@
       "tagline": "Calles de colores",
       "icon": "flash",
       "tint": "#FF3CAC",
+      "i18n": {
+        "en": {
+          "name": "Neon Nights",
+          "tagline": "Colorful streets"
+        },
+        "pt": {
+          "name": "Noites de Neon",
+          "tagline": "Ruas coloridas"
+        },
+        "fr": {
+          "name": "Nuits néon",
+          "tagline": "Des rues colorées"
+        },
+        "de": {
+          "name": "Neonnächte",
+          "tagline": "Bunte Straßen"
+        },
+        "zh": {
+          "name": "霓虹之夜",
+          "tagline": "多彩的街道"
+        },
+        "ko": {
+          "name": "네온의 밤",
+          "tagline": "알록달록한 거리"
+        },
+        "ja": {
+          "name": "ネオンの夜",
+          "tagline": "カラフルな通り"
+        }
+      },
       "art": [
         {
           "id": "noches-de-neon-01-calle-mojada",
           "title": "Calle mojada",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noches-de-neon/01-calle-mojada.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noches-de-neon/01-calle-mojada.jpg",
+          "titles": {
+            "en": "Wet street",
+            "pt": "Rua molhada",
+            "fr": "Rue mouillée",
+            "de": "Nasse Straße",
+            "zh": "湿漉漉的街",
+            "ko": "젖은 거리",
+            "ja": "濡れた路地"
+          }
         },
         {
           "id": "noches-de-neon-02-bulevar",
           "title": "Bulevar",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noches-de-neon/02-bulevar.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noches-de-neon/02-bulevar.jpg",
+          "titles": {
+            "en": "Boulevard",
+            "pt": "Bulevar",
+            "fr": "Boulevard",
+            "de": "Boulevard",
+            "zh": "林荫大道",
+            "ko": "대로",
+            "ja": "大通り"
+          }
         },
         {
           "id": "noches-de-neon-03-azoteas",
           "title": "Azoteas",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noches-de-neon/03-azoteas.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/noches-de-neon/03-azoteas.jpg",
+          "titles": {
+            "en": "Rooftops",
+            "pt": "Terraços",
+            "fr": "Toits",
+            "de": "Dächer",
+            "zh": "屋顶",
+            "ko": "옥상",
+            "ja": "屋上"
+          }
         }
       ]
     },
@@ -991,21 +3328,78 @@
       "tagline": "Carretera al infinito",
       "icon": "car-sport",
       "tint": "#00F0FF",
+      "i18n": {
+        "en": {
+          "name": "Outrun",
+          "tagline": "Road to infinity"
+        },
+        "pt": {
+          "name": "Outrun",
+          "tagline": "Estrada para o infinito"
+        },
+        "fr": {
+          "name": "Outrun",
+          "tagline": "La route vers l’infini"
+        },
+        "de": {
+          "name": "Outrun",
+          "tagline": "Straße ins Unendliche"
+        },
+        "zh": {
+          "name": "逃离",
+          "tagline": "通往无限的公路"
+        },
+        "ko": {
+          "name": "아웃런",
+          "tagline": "무한으로 가는 길"
+        },
+        "ja": {
+          "name": "アウトラン",
+          "tagline": "果てしない道"
+        }
+      },
       "art": [
         {
           "id": "outrun-01-autopista",
           "title": "Autopista",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/outrun/01-autopista.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/outrun/01-autopista.jpg",
+          "titles": {
+            "en": "Highway",
+            "pt": "Rodovia",
+            "fr": "Autoroute",
+            "de": "Autobahn",
+            "zh": "高速公路",
+            "ko": "고속도로",
+            "ja": "ハイウェイ"
+          }
         },
         {
           "id": "outrun-02-casete",
           "title": "Casete",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/outrun/02-casete.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/outrun/02-casete.jpg",
+          "titles": {
+            "en": "Cassette",
+            "pt": "Fita cassete",
+            "fr": "Cassette",
+            "de": "Kassette",
+            "zh": "磁带",
+            "ko": "카세트",
+            "ja": "カセット"
+          }
         },
         {
           "id": "outrun-03-medianoche-retro",
           "title": "Medianoche retro",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/outrun/03-medianoche-retro.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/outrun/03-medianoche-retro.jpg",
+          "titles": {
+            "en": "Retro midnight",
+            "pt": "Meia-noite retrô",
+            "fr": "Minuit rétro",
+            "de": "Retro-Mitternacht",
+            "zh": "复古午夜",
+            "ko": "레트로 한밤중",
+            "ja": "レトロな真夜中"
+          }
         }
       ]
     },
@@ -1015,21 +3409,78 @@
       "tagline": "Mundos de 8 bits",
       "icon": "game-controller",
       "tint": "#5B8CFF",
+      "i18n": {
+        "en": {
+          "name": "Pixel Adventure",
+          "tagline": "8-bit worlds"
+        },
+        "pt": {
+          "name": "Aventura Pixel",
+          "tagline": "Mundos de 8 bits"
+        },
+        "fr": {
+          "name": "Aventure pixel",
+          "tagline": "Des mondes 8 bits"
+        },
+        "de": {
+          "name": "Pixel-Abenteuer",
+          "tagline": "8-Bit-Welten"
+        },
+        "zh": {
+          "name": "像素冒险",
+          "tagline": "8 位世界"
+        },
+        "ko": {
+          "name": "픽셀 모험",
+          "tagline": "8비트 세계"
+        },
+        "ja": {
+          "name": "ピクセル冒険",
+          "tagline": "8ビットの世界"
+        }
+      },
       "art": [
         {
           "id": "pixel-aventura-01-nivel-1",
           "title": "Nivel 1",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-aventura/01-nivel-1.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-aventura/01-nivel-1.jpg",
+          "titles": {
+            "en": "Level 1",
+            "pt": "Fase 1",
+            "fr": "Niveau 1",
+            "de": "Level 1",
+            "zh": "第 1 关",
+            "ko": "1스테이지",
+            "ja": "ステージ1"
+          }
         },
         {
           "id": "pixel-aventura-02-isla-secreta",
           "title": "Isla secreta",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-aventura/02-isla-secreta.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-aventura/02-isla-secreta.jpg",
+          "titles": {
+            "en": "Secret island",
+            "pt": "Ilha secreta",
+            "fr": "Île secrète",
+            "de": "Geheime Insel",
+            "zh": "秘密岛屿",
+            "ko": "비밀의 섬",
+            "ja": "秘密の島"
+          }
         },
         {
           "id": "pixel-aventura-03-jefe-final",
           "title": "Jefe final",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-aventura/03-jefe-final.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-aventura/03-jefe-final.jpg",
+          "titles": {
+            "en": "Final boss",
+            "pt": "Chefão final",
+            "fr": "Boss final",
+            "de": "Endboss",
+            "zh": "最终头目",
+            "ko": "최종 보스",
+            "ja": "ラスボス"
+          }
         }
       ]
     },
@@ -1039,21 +3490,78 @@
       "tagline": "Nieve en píxeles",
       "icon": "snow",
       "tint": "#A2D2FF",
+      "i18n": {
+        "en": {
+          "name": "Pixel Winter",
+          "tagline": "Snow in pixels"
+        },
+        "pt": {
+          "name": "Inverno Pixel",
+          "tagline": "Neve em pixels"
+        },
+        "fr": {
+          "name": "Hiver pixel",
+          "tagline": "De la neige en pixels"
+        },
+        "de": {
+          "name": "Pixel-Winter",
+          "tagline": "Schnee aus Pixeln"
+        },
+        "zh": {
+          "name": "像素冬日",
+          "tagline": "像素雪花"
+        },
+        "ko": {
+          "name": "픽셀 겨울",
+          "tagline": "픽셀로 내린 눈"
+        },
+        "ja": {
+          "name": "ピクセルの冬",
+          "tagline": "ピクセルの雪"
+        }
+      },
       "art": [
         {
           "id": "pixel-invierno-01-bola-de-nieve",
           "title": "Bola de nieve",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-invierno/01-bola-de-nieve.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-invierno/01-bola-de-nieve.jpg",
+          "titles": {
+            "en": "Snowball",
+            "pt": "Bola de neve",
+            "fr": "Boule de neige",
+            "de": "Schneeball",
+            "zh": "雪球",
+            "ko": "눈덩이",
+            "ja": "雪玉"
+          }
         },
         {
           "id": "pixel-invierno-02-iglu",
           "title": "Iglú",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-invierno/02-iglu.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-invierno/02-iglu.jpg",
+          "titles": {
+            "en": "Igloo",
+            "pt": "Iglu",
+            "fr": "Igloo",
+            "de": "Iglu",
+            "zh": "冰屋",
+            "ko": "이글루",
+            "ja": "イグルー"
+          }
         },
         {
           "id": "pixel-invierno-03-cumbre",
           "title": "Cumbre",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-invierno/03-cumbre.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-invierno/03-cumbre.jpg",
+          "titles": {
+            "en": "Summit",
+            "pt": "Cume",
+            "fr": "Sommet",
+            "de": "Gipfel",
+            "zh": "山顶",
+            "ko": "정상",
+            "ja": "山頂"
+          }
         }
       ]
     },
@@ -1063,21 +3571,78 @@
       "tagline": "Estrellas cuadradas",
       "icon": "moon",
       "tint": "#3F37C9",
+      "i18n": {
+        "en": {
+          "name": "Pixel Night",
+          "tagline": "Square stars"
+        },
+        "pt": {
+          "name": "Noite Pixel",
+          "tagline": "Estrelas quadradas"
+        },
+        "fr": {
+          "name": "Nuit pixel",
+          "tagline": "Des étoiles carrées"
+        },
+        "de": {
+          "name": "Pixel-Nacht",
+          "tagline": "Eckige Sterne"
+        },
+        "zh": {
+          "name": "像素之夜",
+          "tagline": "方形的星星"
+        },
+        "ko": {
+          "name": "픽셀의 밤",
+          "tagline": "네모난 별"
+        },
+        "ja": {
+          "name": "ピクセルの夜",
+          "tagline": "四角い星"
+        }
+      },
       "art": [
         {
           "id": "pixel-noche-01-luna-8-bits",
           "title": "Luna 8 bits",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-noche/01-luna-8-bits.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-noche/01-luna-8-bits.jpg",
+          "titles": {
+            "en": "8-bit moon",
+            "pt": "Lua 8 bits",
+            "fr": "Lune 8 bits",
+            "de": "8-Bit-Mond",
+            "zh": "8 位月亮",
+            "ko": "8비트 달",
+            "ja": "8ビットの月"
+          }
         },
         {
           "id": "pixel-noche-02-insert-coin",
           "title": "Insert coin",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-noche/02-insert-coin.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-noche/02-insert-coin.jpg",
+          "titles": {
+            "en": "Insert coin",
+            "pt": "Insert coin",
+            "fr": "Insert coin",
+            "de": "Insert Coin",
+            "zh": "投币开始",
+            "ko": "인서트 코인",
+            "ja": "インサートコイン"
+          }
         },
         {
           "id": "pixel-noche-03-puntaje-alto",
           "title": "Puntaje alto",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-noche/03-puntaje-alto.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-noche/03-puntaje-alto.jpg",
+          "titles": {
+            "en": "High score",
+            "pt": "Recorde",
+            "fr": "Meilleur score",
+            "de": "Highscore",
+            "zh": "最高分",
+            "ko": "최고 점수",
+            "ja": "ハイスコア"
+          }
         }
       ]
     },
@@ -1087,21 +3652,78 @@
       "tagline": "Atardecer retro",
       "icon": "game-controller",
       "tint": "#F25F5C",
+      "i18n": {
+        "en": {
+          "name": "Pixel Dusk",
+          "tagline": "Retro sunset"
+        },
+        "pt": {
+          "name": "Crepúsculo Pixel",
+          "tagline": "Pôr do sol retrô"
+        },
+        "fr": {
+          "name": "Crépuscule pixel",
+          "tagline": "Coucher de soleil rétro"
+        },
+        "de": {
+          "name": "Pixel-Dämmerung",
+          "tagline": "Retro-Sonnenuntergang"
+        },
+        "zh": {
+          "name": "像素黄昏",
+          "tagline": "复古日落"
+        },
+        "ko": {
+          "name": "픽셀 황혼",
+          "tagline": "레트로 노을"
+        },
+        "ja": {
+          "name": "ピクセルの夕暮れ",
+          "tagline": "レトロな夕日"
+        }
+      },
       "art": [
         {
           "id": "pixel-ocaso-01-game-over",
           "title": "Game over",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-ocaso/01-game-over.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-ocaso/01-game-over.jpg",
+          "titles": {
+            "en": "Game over",
+            "pt": "Game over",
+            "fr": "Game over",
+            "de": "Game over",
+            "zh": "游戏结束",
+            "ko": "게임 오버",
+            "ja": "ゲームオーバー"
+          }
         },
         {
           "id": "pixel-ocaso-02-puesta-de-sol",
           "title": "Puesta de sol",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-ocaso/02-puesta-de-sol.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-ocaso/02-puesta-de-sol.jpg",
+          "titles": {
+            "en": "Sundown",
+            "pt": "Fim de tarde",
+            "fr": "Soleil couchant",
+            "de": "Sonnenuntergang",
+            "zh": "日落",
+            "ko": "해넘이",
+            "ja": "日没"
+          }
         },
         {
           "id": "pixel-ocaso-03-continuar",
           "title": "Continuar",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-ocaso/03-continuar.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/pixel-ocaso/03-continuar.jpg",
+          "titles": {
+            "en": "Continue",
+            "pt": "Continuar",
+            "fr": "Continuer",
+            "de": "Weiter",
+            "zh": "继续",
+            "ko": "계속하기",
+            "ja": "コンティニュー"
+          }
         }
       ]
     },
@@ -1111,21 +3733,78 @@
       "tagline": "Retro futuro de los 80",
       "icon": "musical-notes",
       "tint": "#F72585",
+      "i18n": {
+        "en": {
+          "name": "Synthwave",
+          "tagline": "Retro future of the 80s"
+        },
+        "pt": {
+          "name": "Synthwave",
+          "tagline": "O futuro retrô dos anos 80"
+        },
+        "fr": {
+          "name": "Synthwave",
+          "tagline": "Le futur rétro des années 80"
+        },
+        "de": {
+          "name": "Synthwave",
+          "tagline": "Retro-Zukunft der 80er"
+        },
+        "zh": {
+          "name": "合成波",
+          "tagline": "80 年代的复古未来"
+        },
+        "ko": {
+          "name": "신스웨이브",
+          "tagline": "80년대의 레트로 미래"
+        },
+        "ja": {
+          "name": "シンセウェーブ",
+          "tagline": "80年代のレトロフューチャー"
+        }
+      },
       "art": [
         {
           "id": "synthwave-01-horizonte",
           "title": "Horizonte",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/synthwave/01-horizonte.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/synthwave/01-horizonte.jpg",
+          "titles": {
+            "en": "Horizon",
+            "pt": "Horizonte",
+            "fr": "Horizon",
+            "de": "Horizont",
+            "zh": "地平线",
+            "ko": "지평선",
+            "ja": "地平線"
+          }
         },
         {
           "id": "synthwave-02-ruta-80",
           "title": "Ruta 80",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/synthwave/02-ruta-80.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/synthwave/02-ruta-80.jpg",
+          "titles": {
+            "en": "Route 80",
+            "pt": "Rota 80",
+            "fr": "Route 80",
+            "de": "Route 80",
+            "zh": "80 号公路",
+            "ko": "80번 도로",
+            "ja": "ルート80"
+          }
         },
         {
           "id": "synthwave-03-sol-digital",
           "title": "Sol digital",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/synthwave/03-sol-digital.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/synthwave/03-sol-digital.jpg",
+          "titles": {
+            "en": "Digital sun",
+            "pt": "Sol digital",
+            "fr": "Soleil numérique",
+            "de": "Digitale Sonne",
+            "zh": "数码太阳",
+            "ko": "디지털 태양",
+            "ja": "デジタルの太陽"
+          }
         }
       ]
     },
@@ -1135,21 +3814,78 @@
       "tagline": "Colinas que respiran",
       "icon": "leaf",
       "tint": "#5BAA6A",
+      "i18n": {
+        "en": {
+          "name": "Green Valley",
+          "tagline": "Breathing hills"
+        },
+        "pt": {
+          "name": "Vale Verde",
+          "tagline": "Colinas que respiram"
+        },
+        "fr": {
+          "name": "Vallée verte",
+          "tagline": "Des collines qui respirent"
+        },
+        "de": {
+          "name": "Grünes Tal",
+          "tagline": "Atmende Hügel"
+        },
+        "zh": {
+          "name": "翠绿山谷",
+          "tagline": "会呼吸的山丘"
+        },
+        "ko": {
+          "name": "초록 계곡",
+          "tagline": "숨 쉬는 언덕"
+        },
+        "ja": {
+          "name": "緑の谷",
+          "tagline": "息づく丘"
+        }
+      },
       "art": [
         {
           "id": "valle-verde-01-prados-lejanos",
           "title": "Prados lejanos",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/valle-verde/01-prados-lejanos.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/valle-verde/01-prados-lejanos.jpg",
+          "titles": {
+            "en": "Distant meadows",
+            "pt": "Prados distantes",
+            "fr": "Prés lointains",
+            "de": "Ferne Wiesen",
+            "zh": "远方的草地",
+            "ko": "먼 초원",
+            "ja": "遠くの草原"
+          }
         },
         {
           "id": "valle-verde-02-brisa-de-primavera",
           "title": "Brisa de primavera",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/valle-verde/02-brisa-de-primavera.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/valle-verde/02-brisa-de-primavera.jpg",
+          "titles": {
+            "en": "Spring breeze",
+            "pt": "Brisa de primavera",
+            "fr": "Brise de printemps",
+            "de": "Frühlingsbrise",
+            "zh": "春风",
+            "ko": "봄바람",
+            "ja": "春のそよ風"
+          }
         },
         {
           "id": "valle-verde-03-senderos",
           "title": "Senderos",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/valle-verde/03-senderos.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/valle-verde/03-senderos.jpg",
+          "titles": {
+            "en": "Trails",
+            "pt": "Trilhas",
+            "fr": "Sentiers",
+            "de": "Pfade",
+            "zh": "小径",
+            "ko": "오솔길",
+            "ja": "小道"
+          }
         }
       ]
     },
@@ -1159,21 +3895,78 @@
       "tagline": "Luz de catedral",
       "icon": "prism",
       "tint": "#3A86FF",
+      "i18n": {
+        "en": {
+          "name": "Stained Glass",
+          "tagline": "Cathedral light"
+        },
+        "pt": {
+          "name": "Vitrais",
+          "tagline": "Luz de catedral"
+        },
+        "fr": {
+          "name": "Vitraux",
+          "tagline": "Lumière de cathédrale"
+        },
+        "de": {
+          "name": "Buntglas",
+          "tagline": "Licht einer Kathedrale"
+        },
+        "zh": {
+          "name": "彩色玻璃",
+          "tagline": "大教堂之光"
+        },
+        "ko": {
+          "name": "스테인드글라스",
+          "tagline": "대성당의 빛"
+        },
+        "ja": {
+          "name": "ステンドグラス",
+          "tagline": "大聖堂の光"
+        }
+      },
       "art": [
         {
           "id": "vitrales-01-roseton",
           "title": "Rosetón",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales/01-roseton.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales/01-roseton.jpg",
+          "titles": {
+            "en": "Rose window",
+            "pt": "Rosácea",
+            "fr": "Rosace",
+            "de": "Fensterrose",
+            "zh": "玫瑰窗",
+            "ko": "장미창",
+            "ja": "バラ窓"
+          }
         },
         {
           "id": "vitrales-02-ventanal",
           "title": "Ventanal",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales/02-ventanal.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales/02-ventanal.jpg",
+          "titles": {
+            "en": "Great window",
+            "pt": "Janelão",
+            "fr": "Verrière",
+            "de": "Großes Fenster",
+            "zh": "大窗",
+            "ko": "큰 창",
+            "ja": "大窓"
+          }
         },
         {
           "id": "vitrales-03-destello",
           "title": "Destello",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales/03-destello.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales/03-destello.jpg",
+          "titles": {
+            "en": "Gleam",
+            "pt": "Clarão",
+            "fr": "Éclat",
+            "de": "Schimmer",
+            "zh": "闪耀",
+            "ko": "섬광",
+            "ja": "きらめき"
+          }
         }
       ]
     },
@@ -1183,21 +3976,78 @@
       "tagline": "Rojo, ámbar y oro",
       "icon": "flame",
       "tint": "#D00000",
+      "i18n": {
+        "en": {
+          "name": "Fire Glass",
+          "tagline": "Red, amber and gold"
+        },
+        "pt": {
+          "name": "Vitrais de Fogo",
+          "tagline": "Vermelho, âmbar e ouro"
+        },
+        "fr": {
+          "name": "Vitraux de feu",
+          "tagline": "Rouge, ambre et or"
+        },
+        "de": {
+          "name": "Feuerglas",
+          "tagline": "Rot, Bernstein und Gold"
+        },
+        "zh": {
+          "name": "火焰彩窗",
+          "tagline": "红色、琥珀与金色"
+        },
+        "ko": {
+          "name": "불꽃 스테인드글라스",
+          "tagline": "빨강, 호박색, 금색"
+        },
+        "ja": {
+          "name": "炎のステンドグラス",
+          "tagline": "赤と琥珀と金"
+        }
+      },
       "art": [
         {
           "id": "vitrales-de-fuego-01-brasa",
           "title": "Brasa",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-de-fuego/01-brasa.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-de-fuego/01-brasa.jpg",
+          "titles": {
+            "en": "Ember",
+            "pt": "Brasa",
+            "fr": "Braise",
+            "de": "Glut",
+            "zh": "余烬",
+            "ko": "불씨",
+            "ja": "残り火"
+          }
         },
         {
           "id": "vitrales-de-fuego-02-ambar",
           "title": "Ámbar",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-de-fuego/02-ambar.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-de-fuego/02-ambar.jpg",
+          "titles": {
+            "en": "Amber",
+            "pt": "Âmbar",
+            "fr": "Ambre",
+            "de": "Bernstein",
+            "zh": "琥珀",
+            "ko": "호박",
+            "ja": "琥珀"
+          }
         },
         {
           "id": "vitrales-de-fuego-03-fenix",
           "title": "Fénix",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-de-fuego/03-fenix.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-de-fuego/03-fenix.jpg",
+          "titles": {
+            "en": "Phoenix",
+            "pt": "Fênix",
+            "fr": "Phénix",
+            "de": "Phönix",
+            "zh": "凤凰",
+            "ko": "불사조",
+            "ja": "フェニックス"
+          }
         }
       ]
     },
@@ -1207,21 +4057,78 @@
       "tagline": "Verde esmeralda",
       "icon": "prism",
       "tint": "#2D6A4F",
+      "i18n": {
+        "en": {
+          "name": "Forest Glass",
+          "tagline": "Emerald green"
+        },
+        "pt": {
+          "name": "Vitrais da Floresta",
+          "tagline": "Verde esmeralda"
+        },
+        "fr": {
+          "name": "Vitraux de la forêt",
+          "tagline": "Vert émeraude"
+        },
+        "de": {
+          "name": "Waldglas",
+          "tagline": "Smaragdgrün"
+        },
+        "zh": {
+          "name": "森林彩窗",
+          "tagline": "翡翠绿"
+        },
+        "ko": {
+          "name": "숲의 스테인드글라스",
+          "tagline": "에메랄드빛 초록"
+        },
+        "ja": {
+          "name": "森のステンドグラス",
+          "tagline": "エメラルドグリーン"
+        }
+      },
       "art": [
         {
           "id": "vitrales-del-bosque-01-esmeralda",
           "title": "Esmeralda",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-del-bosque/01-esmeralda.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-del-bosque/01-esmeralda.jpg",
+          "titles": {
+            "en": "Emerald",
+            "pt": "Esmeralda",
+            "fr": "Émeraude",
+            "de": "Smaragd",
+            "zh": "翡翠",
+            "ko": "에메랄드",
+            "ja": "エメラルド"
+          }
         },
         {
           "id": "vitrales-del-bosque-02-hojas-de-luz",
           "title": "Hojas de luz",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-del-bosque/02-hojas-de-luz.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-del-bosque/02-hojas-de-luz.jpg",
+          "titles": {
+            "en": "Leaves of light",
+            "pt": "Folhas de luz",
+            "fr": "Feuilles de lumière",
+            "de": "Blätter aus Licht",
+            "zh": "光之叶",
+            "ko": "빛의 잎사귀",
+            "ja": "光の葉"
+          }
         },
         {
           "id": "vitrales-del-bosque-03-musgo",
           "title": "Musgo",
-          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-del-bosque/03-musgo.jpg"
+          "url": "https://jmpartnerchile-lab.github.io/arrows-catalog/vitrales-del-bosque/03-musgo.jpg",
+          "titles": {
+            "en": "Moss",
+            "pt": "Musgo",
+            "fr": "Mousse",
+            "de": "Moos",
+            "zh": "苔藓",
+            "ko": "이끼",
+            "ja": "コケ"
+          }
         }
       ]
     }
